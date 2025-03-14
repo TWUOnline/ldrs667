@@ -1,0 +1,24 @@
+bookdown::gitbook:
+  fig_caption: false
+  css: https://twuonline.github.io/course-materials/bookdown_styles.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><a href="./">LDRS 667: Practicum (Personal and Professional Practice and Reflection)</a></li>
+      after: |
+        <li><a href="https://ma-lead.github.io/ldrs667" target="blank">Published with bookdown</a></li>
+  download: ["pdf"]
+bookdown::pdf_book:
+  fig_caption: false
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::word_document2:
+  toc: false
+  new_session: yes
+  reference_docx: styles.docx
+bookdown::epub_book: default

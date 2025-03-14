@@ -1,0 +1,150 @@
+# Classroom Observation
+
+## Overview {-}
+
+In Unit 2, we will focus on classroom observation. Unit 2 will be completed over several weeks of your practicum, and will be completed at the same time as Unit 3 Lesson Plan Design and Unit 4 Teaching/Facilitation.
+
+Classroom observation can be a powerful learning experience for both novice and veteran teachers/facilitators, who can learn from observing their peers and mentors as they design learning experiences, facilitate learning, and provide formative assessment of learning to students. “Participant observation is the process enabling researchers to learn about the activities of the people under study in the natural setting through observing and participating in those activities” (Kawulich, 2005, part 2).
+
+In this unit, you will complete a minimum of 10 hours of classroom observation in your practicum setting. These hours can include observation of face-to-face teaching/learning experiences, such as lectures, class discussion, student presentations, etc. You can also include observation of online teaching/learning experiences, such as observation of student discussions, lesson design, or faculty assessment of learning.
+
+### Topics {-}
+
+In this unit, we will focus on:
+
+1. Classroom Observation  
+
+### Learning Outcomes {-}
+
+In this unit, you will engage in reflective practice through classroom observation. By the end of this unit, you should be able to:
+
+- analyze lesson plan design, learning activities, and assessment strategies  
+- discuss principles of a community of learning  
+- analyze application of adult learning theory  
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities </span>
+
+- Read Kawulich, B.B. (2005). [Participant observation as a data collection method](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"}. *Forum Qualitative Social Research.*  
+- Read Boyer, E. L. (1990). Campus life: In search of community. Princeton, NJ: Princeton University Press.
+- Read Willits, F. K., &amp; Brennan, M. A. (2016). Changing perceptions of the university as a community of learning: The case of Penn State. International Journal of Teaching &amp; Learning in Higher Education, 28(1), 66–74.  
+- Read Brower, A., Carlson-Dakes, C.G., Barger, S.S. (2007). [A learning community model of graduate student professional teaching excellence](https://wiscape.wisc.edu/docs/wiscapedocuments/wp003.pdf?sfvrsn=8){target="_blank"}. Wisconsin Center for the Advancement of Postsecondary Education.  
+- Read Chapter 4 “Knowing in Community” in Palmer, P. (2017). The courage to teach: Exploring the inner landscape of a teacher’s life. San Francisco: Wiley.  
+- Read Madland, C. (2017). The Trinity Community of Inquiry. Creative Commons License.  
+- Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face, you will take notes using this form).  
+  - Complete a minimum of 10 hours of Classroom Observation.  
+  - Engage in Reflective Practice throughout the Classroom Observation Experience.  
+  - Complete the Classroom Observation Log.  
+
+```
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span> 
+
+- **Reflective Practice Discussions 3 and 4: Classroom Observation**  
+  - Observe another teacher/facilitator for a minimum of 10 hours.  
+  - Write two discussion posts (the first after you have completed approximately half of your observation hours, and the second after you have completed most of your hours).  
+
+```
+
+## Classroom Observation
+
+In this unit, you will participate in 10 hours of classroom observation, engaging in reflective practice throughout this process. As you prepare to engage in classroom observation, you will read two articles that allow you to focus on the value of observation as a powerful strategy for learning.
+
+Kawulich (2005) describes the benefits of participant observation – a data collection strategy used by anthropologists and sociologists (as well as educational researchers) to gather data about a community or group. In much the same way, through classroom observation, you will enter into a learning community as an observer, seeking to observe not just the teaching strategies used by the facilitator, but also the experience of the learners, the learning spaces (online or face-to-face) in which learning activities take place, the design of the curriculum, etc.
+
+“Participant observation is characterized by such actions as having an open, nonjudgmental attitude, being interested in learning more about others, being aware of the propensity for feeling culture shock and for making mistakes, the majority of which can be overcome, being a careful observer and a good listener, and being open to the unexpected in what is learned (DeWalt & DeWalt, 1998, as cited in Kawulich, Part 2).
+
+Using the Gibbs Reflective Cycle, you will describe and analyze your experience. As you begin your reflective practice, consider Larivee’s (2000) argument that “Engaging in systematic refection means making it an integral part of daily practice. Making time for thoughtful consideration of their actions and critical inquiry into the impact of their own behavior keeps teachers alert to the consequences of their actions on students” (p. 296).
+
+Peer observation of teaching is a common practice in higher education, as we all have so much to learn from each other in terms of teaching approach, technique, style, etc. As you conduct your classroom observation, be sure to keep in mind that you are there in an observational role – not as an evaluator. Your goal is not to critique, but to learn by observing the lesson design and teaching strategies that seem to support student learning (keeping in mind that you may not be involved in observing the assessment of learning).
+
+### Activity: Classroom Observation (Read and Reflect) {-}
+
+```{block2, type='reflect'}
+
+Read: Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.  
+
+```
+
+### Activity: Learning Communities (Read and Reflect) {-}
+
+```{block2, type='reflect'}
+
+- Read: Boyer, E. L. (1990a). [Campus life: In search of community](https://eric.ed.gov/?id=ED320492){target="_blank"}. Princeton, NJ: Princeton University Press.  
+- Read: Willits, F. K., & Brennan, M. A. (2016). Changing perceptions of the university as a community of learning: The case of Penn State. *International Journal of Teaching & Learning in Higher Education, 28*(1), 66–74. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.  
+- Read: Brower, A., Carlson-Dakes, C.G., Barger, S.S. (2007). [A learning community model of graduate student professional teaching excellence](https://wiscape.wisc.edu/docs/wiscapedocuments/wp003.pdf?sfvrsn=8){target="_blank"}. *Wisconsin Center for the Advancement of Postsecondary Education*.  
+- Read: Chapter 4 “Knowing in Community” in Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* San Francisco: Wiley. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.  
+- Read: Madland, C. (2017). [TWU Community of Inquiry](assets/u2/Madland-transformational-learning.pdf){target="_blank"}. Creative Commons License.  
+
+```
+
+### Activity: Prepare for Classroom Observation {-}
+
+```{block2, type='reflect'}
+
+Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face), you will take notes using this form. After the observation, based on the notes you took on the observation form, you will complete your analysis of this teaching observation using the Gibbs Reflective Cycle (1988).
+
+Review these sample observation forms. You may choose one of these, or another one you locate online. (Just be sure it is geared at observing faculty at the university/college level, and that is appropriate to the modality, such as online, face-to-face lecture, etc.)
+
+**Observation of Face-to-Face Teaching**
+
+- [https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf](https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf){target="_blank"}  
+- [http://www.ben.edu/faculty-staff/ctle/fac_resources/forms_teaching.cfm](http://www.ben.edu/faculty-staff/ctle/fac_resources/forms_teaching.cfm){target="_blank"} (Select “Peer Observation” and begin with the section for the observer)  
+- [https://wmich.edu/facultydevelopment/faculty/observation](https://wmich.edu/facultydevelopment/faculty/observation){target="_blank"} (Select “Peer Observation and Assessment Tool”)  
+
+**Observation of Online Teaching**
+
+- [https://facdev.e-education.psu.edu/evaluate-revise/peerreviewonline](https://facdev.e-education.psu.edu/evaluate-revise/peerreviewonline){target="_blank"} (Select Peer Review Guide of Online Teaching at Penn State)  
+- [https://teaching.utoronto.ca/wp-content/uploads/2017/01/Peer-Observation-of-Teaching-Guide.pdf](https://teaching.utoronto.ca/wp-content/uploads/2017/01/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} (Review the presentation and use Slides 23-24 for the observation).  
+
+```
+
+### Activity: Classroom Observation {-}
+
+```{block2, type='reflect'}
+
+- Complete a minimum of 10 hours of Classroom Observation. The observation should be conducted at your practice site. Be sure to share with the professor/teacher/facilitator you are observing, that your observation is focused on your own professional development – not to provide feedback or evaluation.  
+- Complete the Classroom Observation form you selected during your observations.  
+- Engage in Reflective Practice throughout the Classroom Observation Experience  
+- Complete the Classroom Observation Log. *(This will be submitted as part of your Reflective Practice Practicum Portfolio).*  
+
+```
+
+## Unit Summary {-}
+
+In this unit, you have engaged in reflective practice as you have observed a minimum of 10 hours of teaching/learning within an online or face-to-face learning environment.
+
+## Assessment of Learning
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Reflective Practice Discussion 3 and 4: Classroom Observation</span>
+
+Observe another teacher/facilitator for a minimum of 10 hours.
+
+Write two discussion posts (the first after you have completed approximately half of your observation hours, and the second after you have completed most of your hours).
+
+Using the reflective practice model you selected, analyze the lesson plan design, learning activities, and assessment strategies you observe in your classroom observation. In the analysis stage, discuss which (if any) theories of adult education and principles of a community of learning were implemented during the learning experience.
+
+At the end of your discussion, pose an open-ended question to other practicum learners. Respond to the posts of two other learners, expanding on their experience, use of reflective practice, and/or asking a question about their experience.
+
+```
+
+## Checking your Learning {-}
+
+```{block2, type='progress'}
+
+As you engage in Classroom Observation in this unit, continually remind yourself that through this experience, you should be able to:
+
+- Analyze lesson plan design, learning activities, and assessment strategies.  
+- Discuss principles of a community of learning.  
+- Analyze application of adult learning theory  
+
+```

@@ -1,0 +1,313 @@
+# Unit 1
+
+## Overview {-}
+
+Welcome to LDRS 667 Practicum: Personal and Professional Practice and Reflection. In this course, you will engage in reflective practice, as you complete your practicum in coaching and facilitation in a professional learning setting.
+
+Take a moment now to review the learning outcomes for this course:
+
+## Student Learning Outcomes
+
+Upon successful completion of this course, you should be able to:
+
+1. Synthesize adult learning theory with practical experience facilitating or teaching   
+
+2. Design authentic and inclusive learning experiences
+
+3. Demonstrate effective teaching/facilitation skills to support critical and creative thinking
+
+4. Integrate cross-cultural competency into the teaching/learning process
+
+5. Apply assessment strategies to measure student learning
+
+6. Synthesize personal identity, values, and beliefs into the facilitation and teaching process
+
+7. Engage in reflective practice within a facilitation/teaching role
+
+In this practicum, you have the opportunity to put what you have learned in your graduate courses into practice within a professional contents. Experiential learning is a powerful and rich learning opportunity.
+
+*“Teaching and learning can become inherently spontaneous and student-centered when moved from the confines of the classroom into the world at large. From the collaborative learning atmosphere that results from the unique relationships developed outside the classroom, to the deep learning that occurs when students must put into practice “in the real world” what they have theorized about from behind a desk, field experiences are unmatched in their learning potential” (Claiborne, Morrell, Bandy, & Bruff, 2018).*
+
+In addition to applying your learning, you will also establish a practice of reflection, engaging in ongoing self-evaluation and analysis of your coaching/facilitation experience in order to continually refine your professional practice. It is our hope that you will not only enhance your coaching and facilitation skills through practice and reflection, but that you will also establish a practice of reflection that will enhance your professional effectiveness throughout your career.
+
+In this practicum, you will design and implement lesson plans that include:
+
+  - student learning outcomes,
+
+  - learning activities, and
+
+  - assessment of student learning.
+
+Through this process, you will apply what you have learned in prior classes related to:
+
+  - adult learning theory,
+
+  - authentic and culturally inclusive learning experiences,
+
+  - cultural competency, and
+
+  - synthesizing your personal identity and values into your teaching/facilitation practice.
+
+In this unit, we will focus on the concept and strategies of *reflective practice,* preparing you to engage in reflection throughout your practicum experience, using the Gibbs Reflective Cycle (1988). In order to maximize your learning, you will engage in reflective practice throughout this practicum, as you design three different lessons and facilitate those (or other) lessons during your practicum. Reflective practice can also be applied to other elements of your practicum, such as discussion facilitation (online or face-to-face), the design of learning activities, implementation of learning activities, and assessment of student learning.
+
+### Topics {-}
+
+This unit is divided into two topics:
+
+> 1: Reflective Practice
+>
+> 2: Gibbs' Reflective Cycle
+
+### Learning Outcomes {-}
+
+When you have completed this unit you should be able to:
+
+  - Synthesize personal identity, values, and beliefs with personal learning outcomes for practicum experience.
+
+  - Describe key elements of reflective practice.
+
+### Activity Checklist {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>Activities</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><ol type="1">
+<li><p>Review adult learning theory principles in: Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. <em>New Directions for Adult and continuing Education, 89</em>. Jossey-Bass. Article is available through the TWU Library.</p></li>
+</ol>
+<p>Read: Larrivee, B. (2000) Transforming teaching practice: becoming the critically reflective teacher. <em>Reflective Practice,</em> (1), 293–307.</p>
+<p><a href="http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&amp;sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl">Forrest, M. E. S.</a> (Sep 2008). On becoming a critically reflective practitioner. <em><a href="http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&amp;sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl">Health Information &amp; Libraries Journal</a>, 25</em>(3), 229-232.</p>
+<p>Read: Claiborne, L., Morrell, J., Bandy, J., &amp; Bruff, D., 2018. Retrieved from https:// cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><ol start="2" type="1">
+<li><p>Read: Mulder, P. (2018). Gibbs' Reflective Cycle by Graham Gibbs. Retrieved from ToolsHero: <a href="https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/">https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/</a></p></li>
+</ol>
+<p>Read: University of Edinburgh (n.d.). Gibb’s Reflective Cycle. Retrieved from: <a href="https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle">https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><strong>Reflective Practice Discussion 1: Experiential Learning</strong></p>
+<p>Write a discussion post describing the context in which you will conduct your experiential learning (practicum). (Consider whether you want or need to keep the site anonymous and, if so, be sure to avoid identifying details.) List your proposed learning outcomes, assessment, and integrate your identity, values, and beliefs as a teacher/facilitator.</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>Reflective Practice Discussion 2: Applying a Reflective Practice Model</strong></p>
+<p>Outline a plan for how you will apply the key elements of Gibb’s (1988) Reflective Cycle, in your classroom observations and teaching/facilitation experience.</p></td>
+</tr>
+</tbody>
+</table>
+
+## Developing a Reflective Practice
+
+In this practicum, you will have an opportunity to implement coaching and facilitation strategies that you have learned in prior courses. You will consider how adult learning theory can enhance student learning as you design learning experiences for students. You will practice culturally inclusive facilitation methods, seek to create an authentic learning community, and practice your coaching/facilitation skills to enhance transformational learning. A practicum provides an important framework for practicing and applying the skills and techniques you have developed. This practice, combined with critical reflection, will allow you to continue to grow and develop as a professional.
+
+Reflective practice provides a framework for thinking of our work as educators, challenging us not just to *do* but to continually refine our practice. Through this process, we are challenged to continually evaluate and assess our own teaching and how it influences student learning.
+
+Larrivee (2000) argues that “When teachers become reflective practitioners, they move beyond a knowledge of discrete skills to a stage where they integrate and modify skills to fit specific contexts, and eventually, to a point where the skills are internalized enabling them to invent new strategies” (p. 294). Similarly, Palmer (2017) contends that “good teaching cannot be reduced to technique; good teaching comes from the identity and integrity of the teacher” (p. 10).
+
+Reflective practice, or “critical reflection” as Larrivee (2000) refers to it, is “a personal awareness discovery process” (p. 296). She argues against a prescribed process, but instead advocates for ongoing commitment to “making time for solitary reflection, becoming a perpetual problem-solver and questioning the status quo” (Larrivee 1999, as cited in Larrivee, 2000, p. 296). She suggests that a reflective journal can be an important tool for self-engagement. Building on this recommendation, in this class you will engage in ongoing written reflection on your learning. For each lesson that you design, you will engage in reflection through Reflective Practice Discussion posts. *Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding.*
+
+
+
+Read the following articles and websites. As you read, consider the role of reflective practice in your practicum experience. Being thinking about how you would engage in reflective practice through each element of your practicum: classroom observation, lesson plan design, and facilitation/teaching elements of your practicum.
+
+### Activity 1: Read and Reflect
+
+Review adult learning theory principles in: Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. *New Directions for Adult and continuing Education, 89*. Jossey-Bass
+
+Read: Larrivee, B. (2000) Transforming teaching practice: Becoming the critically reflective teacher. *Reflective Practice,* (1), 293–307.
+
+Read: [Forrest, M. E. S.](http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl) (Sep 2008). On becoming a critically reflective practitioner. *[Health Information & Libraries Journal](http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl), 25*(3), 229-232.
+
+Read: Claiborne, L., Morrell, J., Bandy, J., & Bruff, D., 2018. Retrieved from https:// cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom
+
+## Gibb’s Reflective Cycle (1988)
+
+Reflective practice generally includes elements of self-evaluation, assessment of experience, reflective questioning, and conclusions or further inquiry. It is often conducted individually, but can also include elements of peer observation and feedback. As Larrivee (2000) argues, critical reflection also involves questioning of the status quo, including “examining the assumptions that underlie classroom practices” (p. 297). This is particularly important, since most of us have been students ourselves: we can too easily fall into the habit of replicating the way we have been taught, without evaluating the effectiveness of those practices.
+
+Larrivee (2000) describes a process of critical reflection that involves three stages, arguing that the process is “more cyclical than linear, more incremental than sequential” (p. 304). The process she lays out includes the three key elements/stages of “examination,” “struggle,” and “perceptual shift” (p. 305).
+
+As you prepare for your coaching/facilitation experiences in your practicum, you are challenged to consider the value of reflective practice, and how you can develop your own practice of self-reflection and critical inquiry. We will explore Gibbs’ Reflective Cycle, which you will use throughout this practicum.
+
+Gibb’s Reflective Cycle (1988) includes six steps: *description, feelings, evaluation, analysis, conclusion, and action plan.* As you engage in your professional practice through this practicum, you will be asked to complete these steps for each element of the practicum (i.e. classroom observation, lesson plan design, and facilitation).
+
+Description: You will begin by describing the teaching/facilitation experience (or the process of designing a lesson plan).
+
+Feelings: You will consider the feelings (and the feelings of students) during the teaching/learning process.
+
+Evaluation: In this step, you will evaluate the experience.
+
+Analysis: You will then analyze the experience. At this stage, you will find it helpful to look at the experience through the lens of the literature you have read in previous courses.
+
+Conclusion: At this stage, you will draw conclusions about your teaching/learning experience.
+
+Action Plan: Based on the previous steps, you will develop steps to take to continually improve your teaching/facilitation practice.
+
+In the Learning Activities, you will review resources that provide a deeper look at Gibbs' Reflective Cycle. As you review those resources, begin thinking about how you will apply these within your practicum setting. You will write about this in your Reflective Practice Discussion 2.
+
+
+
+### Activity 2: Read and Reflect
+
+Read: Mulder, P. (2018). Gibbs Reflective Cycle by Graham Gibbs. Retrieved from ToolsHero: <https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/>
+
+Read: University of Edinburgh (n.d.). Gibbs' Reflective Cycle. Retrieved from: <https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle>
+
+##
+
+## Assessment of Learning (Graded)
+
+### Reflective Practice Discussion 1: Experiential Learning
+
+Write a discussion post. Describe the context in which you will conduct your experiential learning (practicum). (Consider whether you want or need to keep the site anonymous and, if so, be sure to avoid identifying details.) List the learning outcomes you developed for your practicum experience (from your Practicum Proposal). Specifically describe how you will assess your own learning. Discuss how your practicum experience will align with your personal identity, values, and beliefs as a teacher/facilitator.
+
+### Respond to the posts of two other learners, providing reflective feedback on their learning outcomes, practicum experience, and/or their integration of their identity, values, and beliefs with their practicum plans.
+
+### Reflective Practice Discussion 2: Applying a Reflective Practice Model
+
+Outline a plan for how you will apply the key elements of Gibb’s (1988) Reflective Cycle, in your classroom observations and teaching/facilitation experience.
+
+Respond to the posts of two other learner’s, providing suggestions for how they might maximize their experience of the reflective cycle in their practicum.
+
+### Grading Criteria: REFLECTIVE PRACTICE DISCUSSION RUBRIC
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>Unsatisfactory</p>
+<p>0%</p></th>
+<th><blockquote>
+<p>DEveloping</p>
+<p>50% (C)</p>
+</blockquote></th>
+<th><p>Proficient</p>
+<p>75% (B)</p></th>
+<th><blockquote>
+<p>Exemplary</p>
+<p>100% (A)</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>REFLECTIVE PRACTIC MODEL (50%)</td>
+<td>Original discussion post does not include analysis of teaching/facilitation practice through a reflective practice model. Some steps of the model are missing or incomplete.</td>
+<td><blockquote>
+<p>Original discussion post includes description of teaching/facilitation practice through a reflective practice model. Only some steps in the model are included in the analysis.</p>
+</blockquote></td>
+<td><em>Original discussion post includes analysis of teaching/facilitation practice through a reflective practice model. All steps in the model are included in the analysis.</em></td>
+<td>Original discussion post includes insightful analysis of teaching/facilitation practice through a reflective practice model. All steps in the model are included in the analysis.</td>
+</tr>
+<tr class="even">
+<td><p>Analysis, Evaluation, AND APPLICATION of SCHOLARLY SOURCES</p>
+<p>20%</p></td>
+<td><p><strong>Discussion post does not include evaluation synthesis, and application of scholarly sources.</strong></p>
+<p><strong>Discussion post and responses do not include references to scholarly sources.</strong></p></td>
+<td><blockquote>
+<p>Discussion post includes incomplete evaluation and/or synthesis and/or application of scholarly sources.</p>
+<p>Discussion post and responses only partially support academic arguments with scholarly sources.</p>
+</blockquote></td>
+<td><p><em>Original discussion post includes evaluation, synthesis, and application of scholarly sources.</em></p>
+<p><em>Discussion post includes references to scholarly, peer-reviewed texts or other resources to support academic arguments in both original and reply posts.</em></p></td>
+<td><blockquote>
+<p>Discussion post includes evaluation, synthesis, and application of scholarly sources, demonstrating original thought.</p>
+<p>Discussion post includes references to scholarly, peer-reviewed resources, incorporating non-course scholarly resources to augment the academic argument.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><p>COMMUNITIY Of LEARNING</p>
+<p>20%</p></td>
+<td><p><strong>Discussion post does not include an open-ended prompt. Responses to other learners are incomplete or superficial.</strong></p>
+<p><strong>Discussion posts and responses to do not demonstrate the values of a community of learning.</strong></p></td>
+<td><blockquote>
+<p>Open-ended prompt in Discussion post does not prompt scholarly inquiry of other learners. Responses to other leaners are complete but do not expand on their scholarly thinking.</p>
+<p>Discussion posts and responses demonstrate only some values of a community of learning. Some content contradicts these values.</p>
+</blockquote></td>
+<td><p><em>Original Discussion post includes an open-ended prompt to expand the scholarly inquiry of other learners. Responses to other learners expands on their scholarly thinking.</em></p>
+<p><em>Discussion posts and responses demonstrate values of a community of learning, including respect, inclusivity, creativity scholarly thinking, and academic integrity.</em></p></td>
+<td><blockquote>
+<p>Discussion post includes an open-ended prompt to expand the scholarly inquiry of others and challenges others to consider different perspectives. Responses to other learners expands on their scholarly thinking and introduces them to new scholarly concepts or resources.</p>
+<p>Discussion posts and responses demonstrate values of a community of learning and demonstrate a value for other learners’ scholarly thinking and academic creativity.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><p>APA/Writing</p>
+<p>10%</p></td>
+<td><strong>Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted.</strong></td>
+<td><blockquote>
+<p><strong>Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors.</strong></p>
+</blockquote></td>
+<td><em>Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations.</em></td>
+<td><blockquote>
+<p>Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>POSSIBLE POINTS</td>
+<td><strong>0</strong></td>
+<td><blockquote>
+<p><strong>50</strong></p>
+</blockquote></td>
+<td><em><strong>75</strong></em></td>
+<td><blockquote>
+<p><strong>100</strong></p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
+
+## Unit 1 Summary
+
+In this first unit, you have had the opportunity to learn about reflective practice, and how it can help you develop as a facilitator. Engaging in reflective practice throughout your practicum as you participate in classroom observation, designing lesson plans, and facilitating learning can help you develop a process through which you become a critically reflective practitioner throughout your career.
+
+## Checking your Learning
+
+Before you move on to the next unit, you may want to check to make sure that you are able to:
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>Learning Outcomes</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><ul>
+<li><p>Synthesize personal identity, values, and beliefs with personal learning outcomes for practicum experience.</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><ul>
+<li><p>Describe key elements of reflective practice.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## References
+
+*Claiborne, L., Morrell, J., Bandy, J., & Bruff, D. (2018). Teaching outside the classroom. Vanderbilt University Center for Teaching. Retrieved from https://cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom.*
+
+[Forrest, Margaret E. S.](http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl) (Sep 2008). On becoming a critically reflective practitioner. *[Health Information & Libraries Journal](http://web.b.ebscohost.com.library.capella.edu/ehost/detail/detail?vid=2&sid=16be1116-69b5-4b02-b4a2-4c7945277b5a%40pdc-v-sessmgr05&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl).* Vol. 25 Issue 3, 229-232. **(Can’t access through TWU)**
+
+Larrivee, B. Transforming teaching practice: Becoming the critically reflective teacher. *Reflective Practice* *2000*(1), 293–307. Retrieved from: <http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf>
+
+Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. *New Directions for Adult and continuing Education, 89*. Jossey-Bass.
+
+Mulder, P. (2018). Gibbs Reflective Cycle by Graham Gibbs. Retrieved from ToolsHero: <https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/>
+
+University of Edinburgh (n.d.). Gibb’s Reflective Cycle. Retrieved from: <https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle>
