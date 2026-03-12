@@ -1,4 +1,4 @@
-# LDRS 667: Assessment
+# LDRS 667: Assessment {.unnumbered}
 
 Assessment of learning will include a Practicum Proposal, the design and implementation of lesson plans, and reflective practice assignments (discussions and final paper).
 

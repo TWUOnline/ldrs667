@@ -6,10 +6,10 @@ project:
 
 # Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
-author-title: "Authors"
+author-title: "Cathy Penfold Navarro"
 
 book:
-  title: "COURSE NAME"
+  title: "LDRS 667:"
   author: "TWU Online"
   date: "last-modified"
   date-format: "MMM D, YYYY"
