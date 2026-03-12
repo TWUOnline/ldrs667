@@ -103,11 +103,13 @@ During your observations:
 
 In this unit, you have engaged in reflective practice as you have observed a minimum of 10 hours of teaching/learning within an online or face-to-face learning environment.
 
-### Checking Your Learning {.unnumbered}
+::: {.check}
 
 - analyze lesson plan design, learning activities, and assessment strategies
 - discuss principles of a community of learning
 - analyze application of adult learning theory
+
+:::
 
 ## References {.unnumbered}
 

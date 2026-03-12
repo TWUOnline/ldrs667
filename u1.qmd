@@ -28,10 +28,14 @@ When you have completed this unit, you will be able to:
 
 Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
 
+::: {.learning-activity}
+
 - Select and create a description of your practicum site and mentor.
 - In preparation for your practicum, review prior course materials as suggested.
 - Create personal learning outcomes that describe what you hope to learn during this practicum.
 - Develop detailed plans for your practicum and complete your practicum proposal for submission.
+
+:::
 
 ### Assessment {.unnumbered}
 
@@ -53,7 +57,7 @@ In this practicum, you will engage in rich, experiential learning, deepening you
 
 You will also need to secure a mentor at your site. Your practicum mentor will serve as your practicum contact, provide feedback on your teaching or facilitation, and confirm that you have completed your required observation and teaching/facilitation hours.
 
-#### How to Select Your Practicum Site {.unnumbered}
+#### *How to Select Your Practicum Site* {.unnumbered}
 
 You can complete your practicum **on-site or online**. The practicum site you choose should allow you to:
 
@@ -63,7 +67,7 @@ You can complete your practicum **on-site or online**. The practicum site you ch
 
 This adds up to the **20 hours of experiential learning** required for the practicum.
 
-#### Where You Can Complete Your Practicum {.unnumbered}
+#### *Where You Can Complete Your Practicum* {.unnumbered}
 
 Your practicum can take place in a variety of settings, including:
 
@@ -74,11 +78,11 @@ Your practicum can take place in a variety of settings, including:
 - Online learning communities or virtual instructional spaces
 - Any setting where teaching, coaching, or facilitation occurs
 
-#### Working With a Trinity Faculty Mentor {.unnumbered}
+#### *Working With a Trinity Faculty Mentor* {.unnumbered}
 
 You may also ask a Trinity faculty member to serve as your mentor and use their class as your practicum site. This is a great option if you don’t have an immediate placement or want additional support and feedback throughout the process.
 
-#### If You Don’t Have a Workplace {.unnumbered}
+#### *If You Don’t Have a Workplace* {.unnumbered}
 
 You do not need to be employed to complete your practicum. Many students secure placements by:
 
@@ -88,17 +92,25 @@ You do not need to be employed to complete your practicum. Many students secure 
 
 If you’re not sure whether a site will meet the requirements, reach out to your instructor for guidance. The goal is to choose a placement that supports your learning, allows you to practice facilitation skills, and provides opportunities for feedback from a mentor.
 
-**Note:** Remember that your practicum site and mentor must be confirmed **before the course starts** so that you are ready to begin your experiential learning from day one. Because securing a practicum site and mentor can take some time, we recommend starting this process at least **a month in advance**.
+::: {.note}
+
+*Note:* Remember that your practicum site and mentor must be confirmed **before the course starts** so that you are ready to begin your experiential learning from day one. Because securing a practicum site and mentor can take some time, we recommend starting this process at least **a month in advance**.
+
+:::
 
 ### Activity: Describe your Practicum Site and Mentor
+
+::: {.learning-activity}
 
 Create a description of your practicum site. This should include details such as whether you will be observing a specific professor, teacher, or trainer, and the context for your observation and facilitation. For example, will you be observing a professor and then facilitating live discussions in her onsite class?
 
 Note: Although you need to identify your site for this assignment, you should consider whether you want to keep the site anonymous for your discussions in the Practicum Course. If so, be sure to indicate in your proposal how you will avoid identifying details in course discussions.
 
-Complete and include the signed [Mentor Agreement](https://far.twu.ca/ldrs/667/assignments/assignment-2/LDRS_667_Mentor_Agreement.pdf){target="_blank"} in your practicum proposal.
+Complete and include the signed [Mentor Agreement](assets/u1/LDRS_667_Mentor_Agreement.pdf){target="_blank"} in your practicum proposal.
 
-**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+
+:::
 
 ## Preparing to Teach/Facilitate
 
@@ -106,7 +118,7 @@ As you prepare for your practicum experience, now is a great time to review mate
 
 ### Activity: Preparation for Practicum
 
-**Estimated Time: 60 minutes**
+::: {.learning-activity time="60"}
 
 To prepare for the practicum, review the relevant textbooks and resources. Begin by re-reading the following chapters from *The Courage to Teach: Exploring the Inner Landscape of a Teacher’s Life* (Palmer, 2017):
 
@@ -116,13 +128,24 @@ To prepare for the practicum, review the relevant textbooks and resources. Begin
 
 If you need a refresher on how to write Learning Outcomes for your practicum, review the prior course materials along with the following resources:
 
-- "[Learning Outcomes"](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"} (Western University Centre for Teaching and Learning, n.d.)
+- ["Learning Outcomes"](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"} (Western University Centre for Teaching and Learning, n.d.)
 
-**Figure** *Formula for a Student Learning Outcome*
+::: {#fig-image}
 
-Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+![](assets/u1/U1-learningOutcome.png){#fig-u1_1 .lightbox fig-alt="Formula for a Student Learning Outcome "student will be able to" + action verb + "what they will be able to do"}
+
+*Formula for a Student Learning Outcome*
+
+:::
+
+::: text-source
+*Source:* Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+
+:::
 
 You may also wish to review your Reflective Journal from previous courses. As you review these materials, consider what you hope to learn in your Practicum experience.
+
+:::
 
 ## Reflecting on Your Learning Goals
 
@@ -132,9 +155,11 @@ Think of this as a chance to connect your practicum work to the concepts and ski
 
 ### Activity: Create Personal Learning Outcomes
 
+::: {.learning-activity}
+
 Referring to the tips below, create three personal learning outcomes that describe what you want to learn in this practicum. These learning outcomes will shape your experiential learning in this practicum.
 
-#### Tips for Writing Your Learning Outcomes {.unnumbered}
+*Tips for Writing Your Learning Outcomes*
 
 1. **Be specific and realistic.** Focus on a skill or knowledge you can reasonably develop in 20 hours of experiential learning (observation, lesson plan design, and facilitation).
 2. **Reflect on what you have learned already.** How can your practicum experience build on what you’ve already learned?
@@ -142,31 +167,35 @@ Referring to the tips below, create three personal learning outcomes that descri
 4. **Use one clear verb per outcome.** For example: identify, design, facilitate, apply, analyze, integrate. (Refer to Bloom’s Taxonomy if you’re looking for learning verbs).
 5. **Focus on the outcome, not the process**. In your learning outcomes, focus on what you hope to learn – such as being able to design a lesson plan or facilitate an online discussion board.
 
-**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
-#### Suggested Approach {.unnumbered}
+:::
+
+#### *Suggested Approach* {.unnumbered}
 
 For your Practicum Proposal, you will develop three learning outcomes for yourself – three things you want to learn. Since your practicum includes three core areas (observation, lesson planning, and facilitation), you might consider one learning outcome for each core component of the practicum:
 
-#### Observation (Minimum 10 hours) {.unnumbered}
+#### *Observation (Minimum 10 hours)* {.unnumbered}
 
 Think about what you hope to notice and understand by watching someone else teach or facilitate. For example, during your observation hours, you might want to specifically observe how the instructor creates an inclusive, authentic learning community, or the strategies they use for engaging adult learners in meaningful dialogue. You might also want to notice how the instructor adapts their content, based on the diverse needs of the learner.
 
 Once you determine what you want to learn, you can then write a learning outcome for yourself, such as: At the completion of this practicum, I will be able to: Identify strategies facilitators use to create culturally inclusive learning spaces.
 
-#### Lesson Plan Design and Facilitation (Minimum 10 hours, Minimum 3 Lessons) {.unnumbered}
+#### *Lesson Plan Design and Facilitation (Minimum 10 hours, Minimum 3 Lessons)* {.unnumbered}
 
 Reflect on what you hope to learn by designing a lesson plan – and facilitating that lesson plan. For example, you will design lesson plans that incorporate culturally responsive teaching strategies and adult learning theory, and focus on creating an authentic learning community.
 
 Once you determine what you want to learn, you can then write a learning outcome for yourself, such as: At the completion of this practicum, I will be able to: Design a lesson plan that builds on the learners’ current knowledge.
 
-#### Facilitation or Teaching (Minimum 1 hour total; 20 minutes minimum per session) {.unnumbered}
+#### *Facilitation or Teaching (Minimum 1 hour total; 20 minutes minimum per session)* {.unnumbered}
 
 Reflect on what you hope to learn as you practice facilitating an online or onsite discussion. You may want to learn how to facilitate a discussion in a way that promotes deep learning and critical thinking. Perhaps you want to focus on learning how to keep a conversation going among students, centering their learning by asking students to talk more than you do. Or, perhaps you might want to learn how to adjust your facilitation style based on learners needs.
 
 Once you’ve taken some time to reflect on what you want to learn through your facilitation, you can write a learning outcomes such as: At the completion of this practicum, I want to be able to: Facilitate a discussion that promotes deep learning.
 
 ### Activity: Create Detailed Plans for Your Practicum
+
+::: {.learning-activity}
 
 Create the following sections for your practicum proposal:
 
@@ -177,21 +206,23 @@ Create the following sections for your practicum proposal:
 - **Learning:** An analysis of how this practicum will contribute to the achievement of practicum learning outcomes. Be specific. Explain how each element of the practicum will contribute to the personal learning outcomes you develop.
 - **Career Planning:** A discussion of how this practicum will build on your current academic, personal, and professional knowledge, and how it will contribute to your career goals. Be specific.
 
-**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+
+:::
 
 ## Summary {.unnumbered}
 
 In this pre-work, you have prepared for your practicum experience by developing a Practicum Proposal, and reviewing prior course materials.
 
-###
-
-### Checking Your Learning {.unnumbered}
+::: {.check}
 
 As you prepare to launch your practicum experience, you may want to check to make sure that you are able to:
 
 - Identify a practicum site and mentor
 - Formulate personal learning outcomes for the practicum experience.
 - Develop a plan to complete the required 10 hours of observation and 10 hours of lesson plan design and facilitation (including facilitation of an online or onsite discussion).
+
+:::
 
 ## References {.unnumbered}
 

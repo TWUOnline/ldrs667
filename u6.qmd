@@ -44,7 +44,7 @@ Throughout your practicum experience, you will continue to engage in reflective 
 
 Completing your final assignment, the Reflective Practice Practicum Portfolio, marks the end of your journey in this course. Congratulations on reaching this milestone! I hope your practicum provided a valuable opportunity to apply your knowledge in a real-world environment and helped you realize how reflective practice can be beneficial as you seek to continually expand your expertise in teaching and facilitation. As you move forward in your career—whether as a teacher, facilitator, or in another creative role—I hope you continue to apply everything you’ve accomplished here. Well done!
 
-### Checking Your Learning {.unnumbered}
+::: {.check}
 
 - Synthesize adult learning theory with practical experience facilitating or teaching
 - Design authentic and inclusive learning experiences
@@ -53,6 +53,8 @@ Completing your final assignment, the Reflective Practice Practicum Portfolio, m
 - Apply assessment strategies to measure student learning
 - Synthesize personal identity, values, and beliefs into the facilitation and teaching process
 - Engage in reflective practice within a facilitation/teaching role
+
+:::
 
 <!-- ## Assignment 5: Reflective Practice Practicum Portfolio
 

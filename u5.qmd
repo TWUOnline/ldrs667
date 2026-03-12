@@ -92,10 +92,12 @@ Note: You are required to submit the completed Classroom Observation & Facilitat
 
 In this unit, you have facilitated a minimum of three lessons in an online or face-to-face learning environment. Throughout this process, you have engaged in reflective practice through the use of Gibb’s (1988) reflective cycle.
 
-### Checking Your Learning {.unnumbered}
+::: {.check}
 
 - Facilitate lessons using effective facilitation skills.
 - Engage in reflective practice.
+
+:::
 
 ## References {.unnumbered}
 

@@ -101,13 +101,18 @@ As you prepare for your coaching/facilitation experiences in your practicum, you
 
 Gibbs’ Reflective Cycle (1988) includes six steps: description, feelings, evaluation, analysis, conclusion, and action plan. As you engage in your professional practice through this practicum, you will be asked to complete these steps for each element of the practicum (i.e. classroom observation, lesson plan design, and facilitation).
 
-::: figure
+::: {#fig-image}
 
-**Figure** *A Cyclical Diagram Showing the Reflective Cycle*
+![](assets/u2/Gibbs.png){#fig-u2_1 .lightbox fig-alt="A Cyclical Diagram Showing the Reflective Cycle"}
+
+*A Cyclical Diagram Showing the Reflective Cycle*
 
 :::
 
-Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+::: text-source
+*Source:* Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+
+::: 
 
 1. **Description:** You will begin by describing the teaching/facilitation experience (or the process of designing a lesson plan).
 2. **Feelings:** You will consider how you felt during the facilitation process -- and how your students felt.
@@ -142,12 +147,14 @@ Select one of the following articles to learn more about a topic you’re intere
 
 In this unit, you have had the opportunity to learn about reflective practice, and how it can help you develop as a facilitator. Engaging in reflective practice throughout your practicum as you participate in classroom observation, designing lesson plans, and facilitating learning can help you develop a process through which you become a critically reflective practitioner throughout your career.
 
-### Checking Your Learning {.unnumbered}
+::: {.check}
 
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
 - Synthesize personal identity, values, and beliefs with personal learning outcomes for practicum experience.
 - Describe key elements of reflective practice.
+
+:::
 
 ## References {.unnumbered}
 
