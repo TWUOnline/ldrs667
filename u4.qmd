@@ -1,138 +1,496 @@
-# Teaching/facilitating
+# Designing Learning Experiences
 
 ## Overview {.unnumbered}
 
-In Unit 4, we focus on designing learning experiences that create the opportunities for students to achieve course learning outcomes. Unit 4 will be completed over several weeks of your practicum, and will be completed at the same time as Unit 2 Classroom Observation and Unit 3 Designing Learning Experiences. In this unit, you will facilitate a minimum of three lesson plans in your practicum setting. Ideally, you will facilitate the lesson plans you designed in Unit 3. However, if that is not practical, you can facilitate lessons that have already been designed. Your facilitation can be conducted in a face-to-face or online setting, and can be synchronous or asynchronous. For example, you might facilitate:
+In Unit 4, we focus on designing learning experiences that create the opportunities for students to achieve course learning outcomes. Unit 4 is designed to be completed over several weeks of your practicum, and will be completed concurrently with Unit 3 Classroom Observation and Unit 5 Teaching/Facilitation.
 
-- a face-to-face class discussion
-- an online discussion
-- a synchronous video class
-- a face-to-face learning activity
+In this unit, you will design a minimum of three lesson plans, designing learning experiences that can be applied within your practicum setting. Ideally, you will also facilitate this learning as part of Unit 5 Teaching/Facilitation. However, that may not be practical.
+
+Your lesson plans do not need to focus on direct instruction – they can include the design of a wide range of learning experiences, such as face-to-face or online lectures, discussions, presentations, case studies, simulations, project-based learning, service learning, or other activities.
 
 ### Topics {.unnumbered}
 
 In this unit, we will focus on:
 
-1. Teaching/Facilitation Strategies
+1. Designing Lesson Plans
+2. Lesson Plan 1: Authentic and Inclusive Learning Experiences
+3. Lesson Plan 2: Cultural Competency
+4. Lesson Plan 3: Critical and Creative Thinking
 
 ### Learning Outcomes {.unnumbered}
 
-In this unit, you will teach/facilitate a minimum of three lessons. By the end of this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
-- Facilitate lessons using effective facilitation skills.
-- Engage in reflective practice.
+- Design authentic and inclusive learning experiences
+- Synthesize adult learning theory with practical experience facilitating or teaching
+- Develop a learning assessment that effectively measures student learning
+- Apply assessment strategies to measure student learning
+- Develop lesson plans that include aligned student learning outcomes, learning activities, and learning assessment
+- Apply principle(s) of adult learning theory in a lesson plan.
+- Provide formative feedback to learners after assessing their learning.
 
-### Activity Checklist {.unnumbered}
+In addition to these learning outcomes, for each lesson plan you should also be able to achieve these learning outcomes:
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+**Lesson Plan 1: Authentic and Inclusive Learning Experiences**
 
-::: {.note}
+- Create a learning experience that fosters connections between students.
+- Apply knowledge of liberating structures to a learning activity.
 
-**Learning Activities **
+**Lesson Plan 2: Cultural Competency**
 
-- Teach/facilitate a minimum of three lessons, in an online or face-to-face environment. (Note: You will complete a minimum of 10 hours of curriculum design and facilitation, combined). Ideally, you will facilitate a lesson plan you designed, however, that may not always be practical.
-- Engage in reflective practice throughout the teaching/facilitation process.
-- Complete the Facilitation Log (The log be submitted as part of your Reflective Practice Practicum Portfolio).
+- Design a learning experience that integrates culturally-inclusive communication processes.
+- Evaluate student learning related to culturally-inclusive communication.
+
+**Lesson Plan 3: Critical and Creative Thinking**
+
+- Create a lesson that integrates critical and creative thinking into a learning activity or assignment.
+
+### Learning Activities {.unnumbered}
+
+Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
+
+- Review all provided resources and consider the guiding questions before beginning your designs.
+- Review the materials provided to guide the design of Lesson Plan 1 and participate in the collaborative whiteboard.
+- Review the materials provided to guide the design of Lesson Plan 2 and participate in the collaborative whiteboard.
+- Review the materials provided to guide the design of Lesson Plan 3 and participate in the collaborative whiteboard.
+
+### Assessment {.unnumbered}
+
+The assessment for this unit includes the design of three lesson plans that outline an engaging learning experience for students.
+
+1. Design three (3) lesson plans, following the Lesson Plan Template. In each of these lesson plans, you will demonstrate the competencies you have developed through previous courses
+- Lesson Plan 1: Authentic and Inclusive Learning Experiences
+- Lesson Plan 2: Cultural Competency
+- Lesson Plan 3: Critical and Creative Thinking
+1. Post a draft of each Lesson Plan in a discussion post for feedback from your instructor and other learners. These will complete **Discussions 5-7**.
+2. Incorporating feedback from other learners, instructor, and practicum supervisor, submit your final Lesson Plan in the Assignment area. These will complete **Assignments 2-4**.
+
+See the Assessment section in Moodle for more details.
+
+## Designing Lesson Plans
+
+In this unit, you will design three lesson plans, each with a specific focus.
+
+Each lesson plan will be designed using a template that includes:
+
+- Student Learning Outcomes
+- Learning Activities
+- Learning Assessment
+
+**Student Learning Outcomes**
+
+As you design your lesson plan, before you decide what you want to teach, you should first identify what you want students to learn.
+
+Sometimes learning outcomes are provided for us. Other times, we are responsible for creating them – so, in your practicum, you will practice writing learning outcomes. In both cases, learning outcomes guide every decision that follows, including activities, facilitation choices, and assessment.
+
+A learning outcome states, in a single clear sentence, the essential learning participants must demonstrate by the end of the session, course, or training.
+
+Ask yourself:
+
+What essential knowledge, skill, or value must participants gain to be prepared for what comes next or to engage effectively in their professional context?
+
+Well-written learning outcomes ensure that both facilitator and participants understand the purpose of the learning experience. Our goal is not simply to teach, but to ensure our students learn.
+
+Once the learning outcome is clear, we can design learning activities and assessments that make that learning possible and visible.
+
+A simple formula for a measurable learning outcome is: Participants will be able to + observable verb + specific content.
+
+**Learning Activities**
+
+The second step in developing your Lesson Plan is to design a learning experience. Learning activities are where outcomes come to life. Once you know what participants must learn, you design experiences that help them do the thinking, practicing, discussing, and applying that lead to that learning. Your focus should be on creating learning activities that challenge students to engage with the content in your course – expanding and deepening their learning.
+
+Learning activities can be diverse – from a guided reading to an asynchronous online discussion. All too often, we default to the way we’ve been taught, lecturing during class time and assigning readings. While both lecture and reading have a place in learning, there are so many other ways you can create experiences where students engage with content.
+
+Consider these examples to spark your thinking about learning activities i face-to-face learning environments:
+
+- Think–Pair–Share around a case scenario
+- Small group problem-solving with a real workplace challenge
+- Role play to practice a skill
+- Gallery walk to respond to posted prompts or models
+- Structured discussion using prompts from *The Discussion Book*
+- Peer feedback on draft plans or ideas
+- Debate
+- Reflective writing followed by table dialogue
+
+If you’re facilitating in an online environment, review these learning activities to get your creativity going:
+
+- Breakout room discussion with a shared task or case
+- Collaborative document or whiteboard brainstorming
+- Discussion forum using structured prompts and peer response
+- Short video reflection
+- Peer review
+- Annotating a shared reading using comments
+- Reflective journal shared with facilitator for feedback,
+
+Although you are engaging in this practicum to grow your skills as a facilitator, you are not the focus. Strong learning activities are not about what the facilitator does. They are built, instead, on what students are invited to do in order to reach the learning outcome.
+
+To spark ideas, revisit facilitation strategies from Brookfield and Preskill’s (2016) *The Discussion Book* and Silberman and Biech’s (2015) *Active Training.* Identify techniques that promote connection, dialogue, reflection, and participation.
+
+Choose activities intentionally. Each learning activity should clearly help participants move toward the stated learning outcome.
+
+**Learning Assessment**
+
+The third component of your lesson plan is assessment of learning. Learning assessment begins with a guiding question:
+
+How will we know if participants learned what we wanted them to learn?
+
+After identifying learning outcomes and designing meaningful learning activities, assessment helps us determine whether students learned through the activities we created for them.
+
+Assessment is most effective when it is planned from the start. Through learning activities, we invite participants to practice, discuss, apply, and reflect. Through learning assessment, we capture evidence of that learning.
+
+Learning assessment needs to be specifically linked to a learning outcome. For example, if our learning outcome is: Students should be able to count from one to five, then our learning assessment could be to ask students to count from one to five.
+
+Through learning assessment, we are determining whether students learned what we wanted them to learn.
+
+As you design learning assessment, consider:
+
+- What would participants need to *demonstrate* to show they achieved learning outcome?
+- What evidence would clearly indicate that learning has occurred?
+- How can assessment feel like a continuation of the learning experience rather than a separate event?
+
+Well-designed assessment aligns directly with both the learning outcome and the learning activities. Participants should recognize assessment as something they have already been preparing for through their engagement in the session.
+
+In coaching and facilitation contexts, assessment often emphasizes demonstration, application, reflection, and feedback more than recall of information.
+
+As you design learning assessments, consider these examples for face-to-face assessment, to get your ideas flowing:
+
+- Case analysis where participants apply a leadership theory to a real or fictional scenario
+- Small group problem-solving task addressing an organizational leadership challenge
+- Structured debate on an ethical leadership dilemma using course concepts
+- Concept map showing relationships among leadership theories or models
+- Brief presentation proposing a leadership strategy for a specific context
+- Reflective writing connecting a leadership concept to personal or professional experience
+- Peer feedback on a draft leadership action plan
+
+You might also find it helpful to review these examples of assessing learning in an online facilitation environment:
+
+- Discussion posts analyzing a leadership case through a specific theoretical lens
+- Written comparison of two leadership theories and their practical implications
+- Submission of a leadership strategy plan for a workplace or community setting
+- Annotated analysis of a leadership scenario highlighting ethical considerations
+- Collaborative document where participants build a shared model of effective leadership practice
+- Reflective journal entries applying leadership concepts to current events
+- Peer review using guiding prompts to evaluate a leadership plan or analysis
+
+Each example focuses on what participants can demonstrate, explain, apply, or analyze to show that the intended learning has taken place. In some cases, as the facilitator you would review written work to determine whether a student has learned what you wanted them to learn. In other cases, as the facilitor, you would observe students in action. Their debate, for example, can show you what course concepts students know, and which you need to teach at a deeper level.
+
+Together, learning outcomes, learning activities, and learning assessment make up the lesson plan.
+
+**Integrating Learning from Previous Courses**
+
+As you design learning outcomes, learning activities, and learning assessments, you will integrate what you have learned in previous courses into your design. Each lesson plan should include an authentic and meaningful learning experience for students – and incorporate a key concept you have studied in your graduate coursework. Through the development of lesson plans, you have an opportunity to apply what you have learned in your courses within a real-world teaching/facilitation experience. Your lesson plan will be designed to teach/facilitate achievement of learning outcomes related to a course you plan to teach/facilitate.
+
+This practicum provides an opportunity for you to develop a lesson plan incorporating three key elements of authentic and effective teaching and learning:
+
+- Authentic and Inclusive Learning
+- Cultural Competency
+- Critical and Creative Thinking
+
+Each lesson plan will also be designed to incorporate:
+
+- Principles of a learning community
+- Adult learning theory
+
+###
+
+### Activity: Preparation for Lesson Plan Design {.unnumbered}
+
+In preparation for designing lesson plans, be sure to review these materials:
+
+- Queens University Center for Teaching and Learning. (n.d.) [Learning outcomes; course/curriculum design.](http://www.queensu.ca/ctl/teaching-support/course-and-program-design){target="_blank"}
+- McTighe & Wiggins (2012). [Understanding by design framework. ASCD.](https://www.ascd.org/ASCD/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf){target="_blank"}
+- Review materials from previous courses related to lesson planning.
+- Review the [Lesson Plan Template](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/Shared%20Documents/MA%20Lead%20-%20Doc/LDRS%20667/2.%20Course%20Working%20Files/Units%20%26%20Assessment/LDRS%20667_U4_Lesson%20Plan%20Template.docx?d=wabb0d05635da4e5c935a952d2cae7db9&csf=1&web=1&e=HPsgfy){target="_blank"}.
+
+**Questions to Consider**
+
+- Which learning community model will I use to guide my lesson plan design?
+- How can I build a community of learning in an online course?
+- What are some key principles of adult learning I want to integrate into my online course?
+- Why are learning outcomes so important to include in a lesson plan?
+- What is the value of an ungraded, formative learning activity? How will I convey this value to students who do not want to participate in ungraded activities?
+- What assessment tool will allow me to effectively answer the question: did students learn what I wanted them to learn?
+
+## Lesson Plan 1: Authentic and Inclusive Learning Experiences
+
+Now that we have reviewed lesson plan design, including creating effective learning outcomes, designing learning experiences, and assessing learning, how can we make our lessons transformational for students? In this unit, you will design a lesson plan that integrates strategies to create an authentic, inclusive, liberating learning experience. As humans, we long for authenticity in our relationships. We want to feel "at home" in the organizations that are part of our lives – our families, schools, communities, places of worship. We seek connection. We search for a place where we are known. This sense of being "at home" is essential to our experience as learners. Deep, authentic learning happens in spaces where we feel connected with others – places and spaces where we are known. Palmer (1998) refers to this as the "spiritual quest for connectedness" (p. 5). In his book, *The Courage to Teach: Exploring the Inner Landscape of a Teacher’s* Life, Palmer (2017) argues that the "inner landscape of teaching" is an essential foundation out of which authentic learning experiences emerge.
+
+> "Teachers possess the power to create conditions that can help students learn a great deal – or keep them from learning much at all. Teaching is the intentional act of creating those conditions, and good teaching requires that we understand the inner sources of both the intent and the act" (Palmer, 2017, p. 7).
+
+Learning communities are authentic, emotionally-safe and inclusive spaces (whether physical or virtual) where learners and teachers come together to engage in deep learning. By definition, a learning community includes both LEARNING and COMMUNITY.
+
+Below are three key learning community models you studied in LDRS 664. As you review these models, consider how you will integrate principles from one of these models in your lesson planning.
+
+**Learning Community Pyramid (Bower & Dettinger, 1998)**
+
+The Learning Community Pyramid, developed by Bower & Dettinger (1998) includes academic, social, and physical components. They describe academic components as those that focus on the curriculum and learning that takes place. The social components are the elements of trust and inclusivity that create space for community. The physical component is the "place or facility where the community meets or resides" (Bower & Dettinger, 1998, p. 17). In the case of this course, that "place" is the course hub.
+
+**The Community of Truth (Palmer, 2017)**
+
+Palmer’s (2017) learning community model incorporates both learning and community" with a "subject" as the center, surrounded by "knowers" who are in relationship to both each other and the subject. Palmer (2017) assets that "the community of truth, far from being linear and static and hierarchical, is circular, interactive, and dynamic" (p. 106). The learning that takes place in this model is captured in this statement: "I understand truth as the passionate and disciplined process of inquiry and dialogue itself, as the dynamic conversation of a community that keeps testing old conclusions and coming into new ones" (p. 106). Instead of solely focusing on what we must teach (and what students must learn), Palmer challenges us to consider how we all might learn something more together – more than is already known – through the teaching/learning experience. In this way, we must consider that we are not just engaged in transferring information or knowledge, but that (in addition to that), together we might create new knowledge.
+
+**The Trinity Community of Inquiry (Madland, 2017)**
+
+In our online courses, Trinity Western University seeks to create learning communities that engage student learning on a cognitive, social, and spiritual level. The Trinity Community of Inquiry model is a visual representation of these three aspects of learning (Social, Cognitive, and Spiritual), and how they interact with each other. At the intersections of these elements, you find:
+
+- Community of Inquiry
+- Community of Faith
+- Integration of Faith and Reason
+
+Combined, these three elements can lead to transformational learning – an aspiration we hold in this course and program – and a fundamental goal of higher education in a broader sense.
+
+::: figure
+
+**Figure ***Transformational Learning*
+
+![](assets/u4/image2.jpg)
 
 :::
 
-::: {.note}
+###
 
-**Assessment**
+### Activity: Prepare for Lesson Plan 1: Authentic and Inclusive Learning Experiences {.unnumbered}
 
-- Reflective Practice Discussion 8: Write a discussion post in which you use Gibb’s (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 1
-- Reflective Practice Discussion 9: Write a discussion post in which you use Gibb’s (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 2
-- Reflective Practice Discussion 10: Write a discussion post in which you use Gibb’s (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 3.
+In preparation for designing this lesson plan, review these materials, as well as materials from previous courses related to this concept.
+
+Review the three learning community models you studied in LDRS 664:
+
+- Pyramid Model of Learning Communities in Brower, A. & Dettinger, K. (1998). What is a learning community?: Toward a comprehensive model. *About Campus: Enriching the Student Experience. 3*(5), 15-21.
+- Trinity Community of Inquiry in Madland, C. (2017). The Trinity Community of Inquiry. Creative Commons License.
+- Community of Truth in Palmer, P. (2017). T*he courage to teach: Exploring the inner landscape of a teacher’s life.* Wiley.
+
+As you recall what you learned in LDRS 664 Creating Authentic Learning Communities and other courses, consider 2-3 concepts or teaching strategies you learned related to creating authentic and inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
+
+- Review: [Liberating structures: Including and unleashing everyone.](http://www.liberatingstructures.com/fs11-innovating-by-including/){target="_blank"}
+- Watch the following video from: [Liberating structures.](http://www.liberatingstructures.com/){target="_blank"}
+
+**Questions to Consider**
+
+- Select a course and lesson you are teaching/facilitating (or may facilitate in the future).
+- Consider the learning outcome for the lesson plan you will design.
+- Take a look at the Liberating Structures menu and browse through some of the activities.
+- Which of these Liberating Structures could you use to facilitate learning in this course/lesson?
+- What activities would work in an online setting – such as an asynchronous discussion activity or a synchronous Zoom meeting with a class?
+- Make note of which activities you’re interested in, and think about how they could be used in a learning activity to ensure students achieve a lesson learning outcome.
+
+## Lesson Plan 2: Cultural Competency
+
+The second lesson plan you will design in this unit integrates strategies to ensure the learning environment and learning activities demonstrate cultural competency principles.
+
+Cultural identity is a critical component of who we are as humans in this world, and as such, culture influences our teaching and learning experiences. Because culture makes up such a significant part of our identity, as you facilitate learning – particularly in a culture different from your own – you will be challenged to think deeply about your own cultural identity, as well as your internal and external beliefs and assumptions about other cultures.
+
+Cross et al. (1989) identified five elements of cultural competency, which will provide a framework for learning in this course. These include: "(1) valuing diversity, (2) having the capacity for cultural self-assessment, (3) being conscious of the dynamics inherent when cultures interact, (4) having institutionalized culture knowledge, and (5) having developed adaptations to service delivery reflecting an understanding of cultural diversity" (Cross, Bazron et al. 1989, as cited in Laffier et al., 2017, p. 150). A culturally-inclusive pedagogy acknowledges that culture informs both learning and teaching; learning is situated within a specific cultural context, which informs the ways we understand knowledge and learning, our expectations for the learning experience, our beliefs about the role of teachers, and our engagement with new content and ideas.
+
+Culturally-inclusive teaching challenges us to engage with our own cultural identify, consider ways in which our teaching/learning experiences are informed by our cultural beliefs, and reflect on how our understanding of how knowledge is constructed and known is also directly influenced by cultural beliefs. Everything we learn is situated within our own cultural contexts – and important consideration as we design learning experiences for students.
+
+"Situated cognition" can be summarized as follows:
+
+- Learning is situated and contextualized in action and everyday situations;
+- Knowledge is acquired through active participation;
+- Learning is a process of social action and engagement involving ways of thinking, doing and communicating;
+- Learning can be assisted by experts or supportive others and through apprenticeship;
+- Learning is a form of participation in social environments" (McLoughlin & Oliver, 2000, p. 61).
+
+Culturally-inclusive teaching, therefore, must take context into consideration, acknowledge cultural differences in knowledge production and learning theory, and provide opportunities for learners to reflect on their own cultural beliefs and how they inform the concepts and knowledge they are learning. "Culturally-responsive teaching engages students in self-awareness activities that lead to reflection on cultural assumptions" (Irish & Scrubb, 2012, para. 2.).
+
+As you design your lesson plan, you will need to incorporate culturally-inclusive teaching and learning strategies into the various aspects of the lesson.
+
+###
+
+### Activity: Prepare for Lesson Plan 2: Cultural Competency {.unnumbered}
+
+In preparation for designing this lesson plan, review these materials, as well as materials from previous courses (such as LDRS 662 Culturally Inclusive Teaching and Learning) related to culturally competent teaching:
+
+- LaFever, M. (2016). Switching from Bloom to the Medicine Wheel: Creating learning outcomes that support Indigenous ways of knowing in post-secondary education. Intercultural Education. [https://www.tandfonline.com/doi/abs/10.1080/14675986.2016.1240496](https://www.tandfonline.com/doi/abs/10.1080/14675986.2016.1240496){target="_blank"}
+- Page, C. (2021). Foundations of intercultural teaching. Kwantlen Polytechnic University. [https://kpu.pressbooks.pub/foundationsofinterculturalteaching/](https://kpu.pressbooks.pub/foundationsofinterculturalteaching/){target="_blank"}
+- Kiper, J. (2020, September 30). Knowing across cultures. Anthropology News. [https://www.anthropology-news.org/articles/knowing-across-cultures/teele,](https://www.anthropology-news.org/articles/knowing-across-cultures/teele,){target="_blank"} D. & Cohn-Vargas, B. (2014).[Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
+- Steele, D. & Cohn-Vargas, B. (2014). [Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
+
+As you recall your learning in LDRS 662 Culturally Inclusive Teaching and Learning and other courses, consider 2-3 concepts or teaching strategies you have learned related to creating culturally inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
+
+::: {.prote}
+
+Comment(s) from Werd:
+
+Reference: Collaborative White Board,
+
+Comment: Collaborative White Board Ran Kang | 2026-02-10T14:20:21
 
 :::
 
-## Teaching/facilitation Strategies
+**Questions to Consider**
 
-In this unit, you will facilitate a minimum of three lessons in an online or face-to-face environment, each with a specific focus. Ideally, you will facilitate lessons you have designed, however, if that is not practical, you will facilitate a lesson designed by someone else.
+- What is the cultural environment in which I am teaching? What are students’ expectations of faculty/student roles?
+- In the cultural environment I am teaching, what is the nature of learning and knowing? How can I ensure I am respecting indigenous views of knowledge and truth?
+- What elements of creating culturally inclusive learning environments do I want to include in my lesson plan?
+- How can I select course resources that are culturally inclusive? Do the resources I am considering represent diverse cultural viewpoints?
 
-Facilitating learning – whether online or face-to-face – requires an effective facilitator, engaged students, and well-developed plans for learning. Effective facilitation requires much more than delivery of content; telling someone something simply isn’t the same as teaching them something.
+## Lesson Plan 3: Creative and Critical Thinking
 
-In LDRS 627, you reviewed strategies for facilitating social-emotional learning and employing sensory-engaged pedagogies, incorporating all the senses (sight, sound, smell, taste and touch) in the teaching learning process.
+The third lesson plan you are asked to design in this unit will integrate strategies to ensure the learning environment and learning activities promote creative and critical thinking.
 
-Examples of sensory-engaged teaching methods highlighted in LDRS 627:
+The critical and creative thinking skills you have developed throughout your formal education, professional experience, and (simply put) life, are essential skill – and are important to teach students.
 
-- auditory input such as recorded lectures; incorporation of music
-- visuals - analysis of videos and film; incorporation of art
-- problem-solving through case studies
-- storytelling
-- place-based learning including learning in nature and other environments
-- kinesthetic or movement learning activities e.g. role play
-- activities that incorporate the olfactory (sense of smell) e.g. bringing in spices from a region to evoke the culture of food
-- activities that incorporate the sense of touch - textured materials, manipulatives
-- discussion forums
-- use of interactive technology
+> "Critical thinking is the intellectually disciplined process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and/or evaluating information gathered from, or generated by, observation, experience, reflection, reasoning, or communication, as a guide to belief and action. In its exemplary form, it is based on universal intellectual values that transcend subject matter divisions: clarity, accuracy, precision, consistency, relevance, sound evidence, good reasons, depth, breadth, and fairness." (Scriven & Paul, 1987).
 
-As you prepare to facilitate your lessons, you might find it helpful to review Silberman and Biech (2015). According to Silberman and Biech (2015), "Preparation is one of the most important ingredients for success" (p. 207). You can gain credibility as a trainer by setting group norms, eliminating time wasters, being able to getting the group’s attention, winning over wary participants and managing difficult behaviors (p. 208). More details and specific strategies are recommended in chapters 11-15.
+A critical thinker will engage in the following behaviors:
 
-As discussed in LDRS 627, Silberman and Biech (2015) also provide many practical strategies chapter 3 has many practical strategies for team building, just-in-time assessment and active learning. You may want to review Chapter 3 to explore strategies for: open discussion, response cards, polling, subgroup discussions, partners, go-arounds, games, calling on the next speaker, panels and fishbowls.
+- raises vital questions and problems, formulating them clearly and precisely;
+- gathers and assesses relevant information, using abstract ideas to interpret it effectively comes to well-reasoned conclusions and solutions, testing them against relevant criteria and standards;
+- thinks open-mindedly within alternative systems of thought, recognizing and assessing, as need be, their assumptions, implications, and practical consequences; and
+- communicates effectively with others in figuring out solutions to complex problems. (Foundation for Critical Thinking, n.d. para. 10)
 
-In Chapter 13, Wang (2017) discusses the effectiveness of opening exercises, considers learning resistance and practical strategies. According to Wang (2017), eye contact and relaxed body language, engaging students, being professional and organized, and creating a hospitable learning environment all serve to create the conditions for student learning and engagement. As you’ll recall from LDRS 627, simply having a plan to host a discussion about a given topic is not sufficient; you need to carefully plan how you will engage learners in the discussion, draw out those who may not readily participate, create an environment where disagreement is valued and respectful, and ensure that the information shared is accurate. You will also be striving to create an environment of inclusivity, where diverse viewpoints are valued and all students belong. For discussions, as with all other learning activities, preparation is required.
+Teaching critical and creative thinking skills into the learning you facilitate often involves the integration of scholarship (what you learn in this program) with your practical experience. Cahalan (2017) identifies eight ways of knowing that encapsulate the concept of critical and creative thinking:
 
-In preparation for your facilitation experience, you may find it helpful to review the work of Wang (2017), Silberman and Biech (2015), Palmer (2017), Brown (2018) and others. You may also want to review liberating structures, and other facilitation resources you’ve compiled.
+- Situated awareness
+- Embodied realizing
+- Conceptual understanding
+- Critical thinking
+- Emotional attunement
+- Creative insight
+- Spiritual discernment
+- Practical reasoning
 
-**As you review these materials, consider:**
+The combination of experiential learning and scholarly knowledge can be powerful. Experiential learning can lead to wisdom if experience is accompanied by critical thinking and intentionally grounded in values and beliefs about what is good. For example, reflective practice throughout this practicum will allow you to synthesize your course learning with the practical application of theories and principles.
 
-- What kind of first impression do I want to make? How can I do this?
-- What teaching/facilitation strategies can I use to facilitate active learning?
-- How can I create an environment of inclusivity in the class?
-- What back-up plans do I need, in case the initial activity takes less time than I had planned?
+### Activity: Prepare for Lesson Plan 3: Creative and Critical Thinking
 
-As you facilitate each lesson, you will complete a Reflective Practice Discussion Post, using Gibb’s (1988) reflective practice cycle to reflect on this experience. As you engage in both facilitation and reflective practice, be sure to integrate the literature and other materials from previous courses in your practice of teaching/facilitating.
+In preparation for designing this lesson plan, review these materials, as well as materials from previous courses (such as LDRS 627, Unit 5: Teaching for Critical Thinking) related to creative and critical thinking:
 
-### Activity: Teaching/facilitating
+- Paul, R. and Elder, L. (2006.) [The miniature guide to critical thinking: Concepts and tools.](https://www.criticalthinking.org/files/Concepts_Tools.pdf){target="_blank"}
+- Hattie, J., & Timperley, H. (2007). [The power of feedback](https://research.ebsco.com/c/bljv25/search/details/cxdse2vykj?limiters=FC1%3AN%2CFT1%3AY%2CFT%3AN%2CRV%3AN&q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Fabs%2F10.3102%2F003465430298487){target="_blank"}. Review of Educational Research, 77, 81-112. [doi:10.3102/003465430298487](https://journals-sagepub-com.twu.idm.oclc.org/doi/10.3102/003465430298487){target="_blank"}
+- [Making sense of universal design for learning.](https://www.youtube.com/watch?v=PQSAQdxnQBY){target="_blank"} [Video] (Government of Alberta, 2018). YouTube.
+- [Toward inclusive learning spaces: Physiological, cognitive, and cultural inclusion and the learning space rating system](https://er.educause.edu/articles/2020/2/toward-inclusive-learning-spaces){target="_blank"}. (Holeton, R., 2020)
+- [Transforming practice: Learning equity, learning excellence.](https://caul-cbua.pressbooks.pub/transformingpractice/){target="_blank"} (Social Equity Working Group Curriculum Committee, 2022)
 
-::: {.learning-activity}
+As you recall your learning in courses throughout your graduate certificate, consider 2-3 concepts or teaching strategies you have learned related to teaching critical or creative thinking. In the Collaborative White Board, share concepts/strategies on critical and creative thinking with other learners.
 
-Teach/facilitate a minimum of three lessons, in an online or face-to-face environment. (Note: You will complete a minimum of 10 hours of curriculum design and facilitation, combined). Ideally, you will facilitate a lesson plan you designed, however, that may not always be practical.
+::: {.prote}
 
-:::
+Comment(s) from Werd:
 
-### Activity: Reflective Practice
+Reference: Collaborative White Board
 
-::: {.learning-activity}
+Comment: Collaborative White Board Ran Kang | 2026-02-10T14:20:09
 
-Engage in Reflective Practice throughout the Facilitation Process.
-
-:::
-
-### Activity: Facilitation Log
-
-::: {.learning-activity}
-
-Complete the Facilitation Log *(The log be submitted as part of your Reflective Practice Practicum Portfolio).*
+Comment: Collaborative White Board Ran Kang | 2026-02-10T14:12:03
 
 :::
+
+**Questions to Consider**
+
+- In the course/lesson I am teaching/facilitating, what learning outcome requires that students demonstrate critical or creative thinking?
+- What strategies can I incorporate into a lesson plan to ensure students engage in learning activities that support their development of critical and creative thinking?
+- How will I be able to assess (either formatively or summatively) student learning related to critical or creative thinking? What assessment tool would I use?
 
 ## Summary {.unnumbered}
 
-In this unit, you have facilitated a minimum of three lessons in an online or face-to-face learning environment. Throughout this process, you have engaged in reflective practice through the use of Gibb’s (1988) reflective cycle.
+In this unit, you have designed three lesson plans for an online or face-to-face learning environment. Through this process, you have expanded your skills related to lesson plan design, including writing measurable learning outcomes, designing authentic and inclusive learning activities, and developing assessment strategies that effectively measure student learning. While these skills are essential to effective teaching and learning, they are skills that often take time to deepen and develop. As you continue in your role as a teacher/facilitator, you will continue to practice these skills, developing your expertise through ongoing, reflective practice.
 
-## Assessment {.unnumbered}
+###
 
+### Checking Your Learning {.unnumbered}
 
-**Reflective Practice Discussions 8, 9, and 10: Teaching/Facilitating**
+As you engage in Lesson Plan Design in this unit, continually remind yourself that through this experience, you should be able to:
 
-- **Reflective Practice Discussion 8:** Write a discussion post in which you use Gibbs' (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 1.
-- **Reflective Practice Discussion 9:** Write a discussion post in which you use Gibbs' (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 2.
-- **Reflective Practice Discussion 10:** Write a discussion post in which you use Gibbs' (1988) reflective practice cycle to analyze your teaching/facilitation of Lesson 3.
-
-## Checking Your Learning {.unnumbered}
-
-::: {.check}
-
-As you engage in Classroom Observation in this unit, continually remind yourself that through this experience, you should be able to:
-
-- Facilitate lessons using effective facilitation skills.
-- Engage in reflective practice.
-
-:::
+- Design authentic and inclusive learning experiences
+- Synthesize adult learning theory with practical experience facilitating or teaching
+- Develop a learning assessment that effectively measures student learning
+- Apply assessment strategies to measure student learning
+- Develop lesson plans that include aligned student learning outcomes, learning activity, and learning assessment
+- Apply principle(s) of adult learning theory in a lesson plan.
+- Provide formative feedback to learners after assessing their learning.
 
 ## References {.unnumbered}
 
-- Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).* Hoboken, New Jersey: John Wiley & Sons
-- Wang, C. X. (2017). *Theory and practice of adult and higher education*. Information Age Publishing Inc.
+Hattie, J., & Timperley, H. (2007). [The power of feedback](http://education.qld.gov.au/staff/development/performance/resources/readings/power-feedback.pdf){target="_blank"}
+
+Review of Educational Research, 77, 81-112. doi:10.3102/003465430298487
+
+Liberating structures: [Including and unleashing everyone.](http://www.liberatingstructures.com/){target="_blank"}
+
+[Liberating structures (video).](http://www.liberatingstructures.com/){target="_blank"} Lingenfelter, J.E. & Lingenfelter, S. G. (2003). Teaching cross-culturally: An incarnational model for learning and teaching. Grand Rapids, MI: Baker Publishing Group.
+
+Paul, R. and Elder, L. (2006.) [The miniature guide to critical thinking: Concepts and tools.](https://www.criticalthinking.org/files/Concepts_Tools.pdf){target="_blank"}
+
+Queens University Center for Teaching and Learning. (n.d.) ["Learning outcomes; course/curriculum design."](http://www.queensu.ca/ctl/teaching-support/course-and-program-design){target="_blank"}
+
+Steele, D. & Cohn-Vargas, B. (2014). [Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
+
+## Discussion 5: Peer Review of Lesson Plan 1
+
+### Instructions {.unnumbered}
+
+Design your first draft of **Lesson Plan 1: Authentic and Inclusive Learning Experiences**, using the [Lesson Plan Template](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/_layouts/15/Doc.aspx?sourcedoc=%7BABB0D056-35DA-4E5C-935A-952D2CAE7DB9%7D&file=LDRS%20667_U4_Lesson%20Plan%20Template.docx&action=default&mobileredirect=true){target="_blank"}. Include student learning outcomes, learning activity, and learning assessment. Be sure to highlight specific strategies you will use to create an authentic, inclusive, liberating learning experience. As required in the template, also include the Community of Learning Principle and the Adult Learning Theory principle that are demonstrated in this unit.
+
+Post your draft in the discussion forum for feedback from your instructor and other learners. You may also share with your practicum supervisor, as appropriate.
+
+Provide feedback to two other learners on their learning outcomes, learning activity, and/or assessments tools. Also, provide helpful input on their inclusion of adult learning theory and/or community of learning principles.
+
+### Rubric {.unnumbered}
+
+*Note: This rubric will be used to grade your Lesson Plans. Since you will be submitting a draft for this peer review process, grading will be based on completion. Use this rubric as a guide to design your lesson plan and to provide effective feedback to your peers.*
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template, and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
+
+## Assignment 2: Lesson Plan 1
+
+### Instructions {.unnumbered}
+
+Incorporating feedback from other learners, your instructor, and practicum supervisor (if they provide it) from **Discussion 5**, revise your Lesson Plan. Then, submit your final **Lesson Plan 1: Authentic and Inclusive Learning Experiences**.
+
+Rubric
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
+
+## Discussion 6: Peer Review of Lesson Plan 2
+
+### Instructions {.unnumbered}
+
+Design your first draft of a **Lesson Plan 2: Cultural Competency**, using the [Lesson Plan Template](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/_layouts/15/Doc.aspx?sourcedoc=%7BABB0D056-35DA-4E5C-935A-952D2CAE7DB9%7D&file=LDRS%20667_U4_Lesson%20Plan%20Template.docx&action=default&mobileredirect=true){target="_blank"}. Include student learning outcomes, learning activity, and learning assessment. Be sure to highlight specific strategies you will use to demonstrate cross-cultural competency. As required in the template, also include the Community of Learning Principle and the Adult Learning Theory strategy that are demonstrated in this unit.
+
+Post your draft in the discussion forum for feedback from your instructor and other learners. You may also share with your practicum supervisor, as appropriate.
+
+Provide feedback to two other learners on their learning outcomes, learning activity, and/or assessments tools. Also, provide helpful input on their inclusion of adult learning theory and/or community of learning principles.
+
+### Rubric {.unnumbered}
+
+*Note: This rubric will be used to grade your Lesson Plans. Since you will be submitting a draft for this peer review process, grading will be based on completion. Use this rubric as a guide to design your lesson plan and to provide effective feedback to your peers.*
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template, and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
+
+## Assignment 3: Lesson Plan 2
+
+### Instructions {.unnumbered}
+
+Incorporating feedback from other learners, your instructor, and practicum supervisor (if they provide it) from **Discussion 6**, revise your lesson plan. Submit your final **Lesson Plan 2: Cultural Competency**.
+
+### Rubric {.unnumbered}
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
+
+## Discussion 7: Peer Review of Lesson Plan 3
+
+### Instructions {.unnumbered}
+
+Design your first draft of **Lesson Plan 3: Critical and Creative Thinking**, using the [Lesson Plan Template](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/_layouts/15/Doc.aspx?sourcedoc=%7BABB0D056-35DA-4E5C-935A-952D2CAE7DB9%7D&file=LDRS%20667_U4_Lesson%20Plan%20Template.docx&action=default&mobileredirect=true){target="_blank"}. Include: student learning outcomes, learning activity, and learning assessment. Be sure to highlight specific strategies you will use to teach and assess critical and creative thinking. As required in the template, also include the Community of Learning Principle and the Adult Learning Theory strategy that are demonstrated in this unit.
+
+Post your draft in the discussion post for feedback from your instructor and other learners. You may also share with your practicum supervisor, as appropriate.
+
+Provide feedback to two other learners on their learning outcomes, learning activity, and/or assessments tools. Also, provide helpful input on their inclusion of adult learning theory and/or community of learning principle.
+
+### Rubric {.unnumbered}
+
+*Note: This rubric will be used to grade your Lesson Plans. Since you will be submitting a draft for this peer review process, grading will be based on completion. Use this rubric as a guide to design your lesson plan and to provide effective feedback to your peers.*
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template, and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
+
+## Assignment 4: Lesson Plan 3
+
+### Instructions {.unnumbered}
+
+Incorporating feedback from other learners, your instructor, and practicum supervisor (if they provide it) from **Discussion 7**, revise your Lesson Plan. Submit your final **Lesson Plan 3: Critical and Creative Thinking**.
+
+### Rubric {.unnumbered}
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 22%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary</strong> <strong>(100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Lesson Learning Outcome</strong> <strong>(20%)</strong></td> <td>There are no learning outcome(s) for the lesson.</td> <td>Includes a learning outcome that is too complex or general.</td> <td>Learning outcomes begin with "Students will be able to..." Includes more than one learning verb and/or more than one noun. LO is specific.</td> <td>The learning outcome begins with "Students will be able to…", and includes one learning verb (apply, analyze, etc.) and one noun (what students will learn). LO is specific.</td> </tr> <tr class="even"> <td><strong>Learning Activity</strong> <strong>(20%)</strong></td> <td>The learning activity(s) does not prepare students to achieve the lesson Learning Outcome(s). The learning activity does not include principles or strategies from scholarly readings.</td> <td>The learning activity(s) will likely not prepare students to achieve the lesson Learning Outcome(s).</td> <td>The learning activity(s) is an effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings. The learning activity clearly prepares students for the learning assessment.</td> <td>The learning activity(s) is a highly effective learning experience to achieve the lesson Learning Outcome(s). The learning activity incorporates specific principles or strategies from scholarly readings that have been demonstrated to result in student learning.</td> </tr> <tr class="odd"> <td><strong>Learning</strong> <strong>Assessment</strong> <strong>(20%)</strong></td> <td>The learning assessment does not effectively measure student achievement of the Learning Outcome(s).</td> <td>The learning assessment will measure some but not all student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s).</td> <td>The learning assessment effectively measures student achievement of the Learning Outcome(s). Includes references to scholarly literature to support the choice of assessment measure.</td> </tr> <tr class="even"> <td><strong>Lesson Focus</strong> <strong>(20%)</strong> LP1: Authentic/ Inclusive Learning, LP2: Culturally-Inclusive Communication, LP3: Creative/ Critical Thinking</td> <td>The lesson plan does not integrate the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan incompletely integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience.</td> <td>The lesson plan clearly integrates the key competency for the lesson as part of the student learning experience, including references to the scholarly literature to support lesson plan design.</td> </tr> <tr class="odd"> <td><strong>Community of Learning</strong> <strong>Principle (5%)</strong></td> <td>The lesson plan does not include an explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan refers to but does not explain how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990).</td> <td>The lesson plan includes a clear explanation of how students will engage with one of the Community Learning Principles (Boyer, 1990), including references to other scholarly sources, in addition to Boyer.</td> </tr> <tr class="even"> <td><strong>Integration of Adult Learning Theory (5%)</strong></td> <td>The lesson plan does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan refers to but does not explain how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity.</td> <td>The lesson plan includes a clear explanation of how adult learning theory is incorporated into the learning activity, including references to scholarly literature.</td> </tr> <tr class="odd"> <td><strong>APA/ Writing (10%)</strong></td> <td>The lesson plan does not follow the template and/or Writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The lesson plan generally follows the template. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited using APA format.</td> <td>The lesson plan follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>

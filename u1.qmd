@@ -1,197 +1,237 @@
-# Developing a Reflective Practice
+# Pre-work: Practicum Proposal
 
 ## Overview {.unnumbered}
 
-Welcome to LDRS 667 Practicum: Personal and Professional Practice and Reflection. In this course, you will engage in reflective practice, as you complete your practicum in coaching and facilitation in a professional learning setting.
+Welcome to LDRS 667 Practicum: Personal and Professional Practice and Reflection. In this unit, **which needs to be completed prior to the start of the course,** you will prepare for your practicum in coaching and facilitation in a professional learning setting.
 
-Take a moment now to review the learning outcomes for this course:
+As you prepare to engage in your practicum, you will complete pre-work that includes preparing and submitting a Practicum Proposal for review by your instructor, and reviewing materials from previous courses.
 
-### Learning Outcomes {.unnumbered}
-
-Upon successful completion of this course, you should be able to:
-
-1. Synthesize adult learning theory with practical experience facilitating or teaching
-2. Design authentic and inclusive learning experiences
-3. Demonstrate effective teaching/facilitation skills to support critical and creative thinking
-4. Integrate cross-cultural competency into the teaching/learning process
-5. Apply assessment strategies to measure student learning
-6. Synthesize personal identity, values, and beliefs into the facilitation and teaching process
-7. Engage in reflective practice within a facilitation/teaching role
-
-In this practicum, you have the opportunity to put what you have learned in your graduate courses into practice within a professional context. Experiential learning is a powerful and rich learning opportunity.
-
-> “Teaching and learning can become inherently spontaneous and student-centered when moved from the confines of the classroom into the world at large. From the collaborative learning atmosphere that results from the unique relationships developed outside the classroom, to the deep learning that occurs when students must put into practice “in the real world” what they have theorized about from behind a desk, field experiences are unmatched in their learning potential” (Claiborne, Morrell, Bandy, & Bruff, 2018).
-
-In addition to applying your learning, you will also establish a practice of reflection, engaging in ongoing self-evaluation and analysis of your coaching/facilitation experience in order to continually refine your professional practice. It is our hope that you will not only enhance your coaching and facilitation skills through practice and reflection, but that you will also establish a practice of reflection that will enhance your professional effectiveness throughout your career.
-
-In this practicum, you will design and implement lesson plans that include:
-
-- student learning outcomes,
-- learning activities, and
-- assessment of student learning.
-
-Through this process, you will apply what you have learned in prior classes related to:
-
-- adult learning theory,
-- authentic and culturally inclusive learning experiences,
-- cultural competency, and
-- synthesizing your personal identity and values into your teaching/facilitation practice.
-
-In this unit, we will focus on the concept and strategies of reflective practice, preparing you to engage in reflection throughout your practicum experience, using the Gibbs' Reflective Cycle (1988). In order to maximize your learning, you will engage in reflective practice throughout this practicum, as you design three different lessons and facilitate those (or other) lessons during your practicum. Reflective practice can also be applied to other elements of your practicum, such as discussion facilitation (online or face-to-face), the design of learning activities, implementation of learning activities, and assessment of student learning.
+This course provides students with a practical setting in which to apply what they have learned in the Certificate in Coaching and Facilitation. Using reflective practice, learners apply learning theory, assessment theory, facilitation practices, and cross-cultural competency, in a professional learning facilitation setting. The practicum must be with a supervised business, non-profit agency, social service agency, school, university, or institution related to the student’s personal interests and future plans.
 
 ### Topics {.unnumbered}
 
-This unit is divided into two topics:
+This unit is divided into the following topics:
 
-1. Reflective Practice
-2. Gibbs' Reflective Cycle
+1. Selecting a Practicum Site
+2. Writing your Practicum Proposal
+3. Preparing to Teach/Facilitate
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit you should be able to:
+When you have completed this unit, you will be able to:
 
-- Synthesize personal identity, values, and beliefs with personal learning outcomes for practicum experience.
-- Describe key elements of reflective practice.
+- Select a practicum site
+- Formulate personal learning outcomes for the practicum experience
+- Develop a plan to complete the required 10 hours of observation and 10 hours of lesson plan design and facilitation (including facilitation of an online or onsite discussion).
 
-### Activity Checklist {.unnumbered}
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
 
-::: {.note}
+- Select and create a description of your practicum site and mentor.
+- In preparation for your practicum, review prior course materials as suggested.
+- Create personal learning outcomes that describe what you hope to learn during this practicum.
+- Develop detailed plans for your practicum and complete your practicum proposal for submission.
 
-**Learning Activities**
+### Assessment {.unnumbered}
 
-- Review adult learning theory principles in:
-  - Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. New Directions for Adult and continuing Education, 89. Jossey-Bass. Article is available through the TWU Library.
-  - Larrivee, B. (2000). [Transforming teaching practice: Becoming the critically reflective teacher](http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf){target="_blank"}. Reflective Practice, 1(3), 293–307.
-  - Forrest, M. E.S. (2008). On becoming a critically reflective practitioner. Health Information & Libraries Journal, 25(3), 229-232. Article is available through the TWU Library.
-  - Claiborne, L., Morrell, J., Bandy, J., & Bruff, D., 2018. [Teaching Outside the Classroom](https://cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom){target="_blank"}.
-  - Read: Mulder, P. (2018). [Gibbs' Reflective Cycle](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"} by Graham Gibbs.
-  - Read: University of Edinburgh (n.d.). [Gibbs Reflective Cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}.
+See the Assessment section in Moodle for assignment details.
 
-:::
+### Required Texts and Materials {.unnumbered}
 
-::: {.note}
+Here are the resources you will need to complete this unit.
 
-**Assessment**
+- Palmer, P.J. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life*. Jossey-Bass.
 
-- Reflective Practice Discussion 1: Experiential Learning
+Other online resources will be provided in the unit. Refer to the References section at the end of the unit for the full list.
 
-  Write a discussion post describing the context in which you will conduct your experiential learning (practicum). (Consider whether you want or need to keep the site anonymous and, if so, be sure to avoid identifying details.) List your proposed learning outcomes, assessment, and integrate your identity, values, and beliefs as a teacher/facilitator.
+## Practicum Proposal
 
-- Reflective Practice Discussion 2: Applying a Reflective Practice Model
+In this practicum, you will engage in rich, experiential learning, deepening your skills in teaching/facilitation and applying scholarly learning from previous courses within a practical setting. To prepare for this experience, you will create a Practicum Proposal as guided in this unit and submit it in Moodle for your instructor’s review.
 
-  Outline a plan for how you will apply the key elements of the Gibbs' Reflective Cycle, in your classroom observations and teaching/facilitation experience.
+**Before completing your Practicum Proposal – and before this course begins – you will need to identify a Practicum Site.** You may already have a practicum site in mind. If not, be sure to select a site that will give you a meaningful opportunity to practice your coaching and facilitation skills.
 
-:::
+You will also need to secure a mentor at your site. Your practicum mentor will serve as your practicum contact, provide feedback on your teaching or facilitation, and confirm that you have completed your required observation and teaching/facilitation hours.
 
-## Developing a Reflective Practice
+#### How to Select Your Practicum Site {.unnumbered}
 
-In this practicum, you will have an opportunity to implement coaching and facilitation strategies that you have learned in prior courses. You will consider how adult learning theory can enhance student learning as you design learning experiences for students. You will practice culturally inclusive facilitation methods, seek to create an authentic learning community, and practice your coaching/facilitation skills to enhance transformational learning. A practicum provides an important framework for practicing and applying the skills and techniques you have developed. This practice, combined with critical reflection, will allow you to continue to grow and develop as a professional.
+You can complete your practicum **on-site or online**. The practicum site you choose should allow you to:
 
-Reflective practice provides a framework for thinking of our work as educators, challenging us not just to do but to continually refine our practice. Through this process, we are challenged to continually evaluate and assess our own teaching and how it influences student learning.
+- **Observe at least 10 hours** of teaching or facilitation
+- **Design and facilitate at least three lessons** (totaling at least 10 hours)
+- **Facilitate at least one hour** of online or face-to-face discussion (with each facilitation lasting at least 20 minutes)
 
-Larrivee (2000) argues that “When teachers become reflective practitioners, they move beyond a knowledge of discrete skills to a stage where they integrate and modify skills to fit specific contexts, and eventually, to a point where the skills are internalized enabling them to invent new strategies” (p. 294). Similarly, Palmer (2017) contends that “good teaching cannot be reduced to technique; good teaching comes from the identity and integrity of the teacher” (p. 10).
+This adds up to the **20 hours of experiential learning** required for the practicum.
 
-Reflective practice, or “critical reflection” as Larrivee (2000) refers to it, is “a personal awareness discovery process” (p. 296). She argues against a prescribed process, but instead advocates for ongoing commitment to “making time for solitary reflection, becoming a perpetual problem-solver and questioning the status quo” (Larrivee 1999, as cited in Larrivee, 2000, p. 296). She suggests that a reflective journal can be an important tool for self-engagement.
+#### Where You Can Complete Your Practicum {.unnumbered}
 
-Building on this recommendation, in this class you will engage in ongoing written reflection on your learning. For each lesson that you design, you will engage in reflection through Reflective Practice Discussion posts. Writing can be a powerful learning experience, as we engage in reflection and critical analysis of the new concepts we discover. Through regular writing, we are challenged to think critically, organize, and integrate these new concepts with our prior understanding.
+Your practicum can take place in a variety of settings, including:
 
-Read the following articles and websites on adult learning theory principles. As you read, consider the role of reflective practice in your practicum experience. Be thinking about how you would engage in reflective practice through each element of your practicum: classroom observation, lesson plan design, and facilitation/teaching elements of your practicum.
+- Companies or organizations (training, organizational development, HR)
+- Colleges, universities, or K–12 schools
+- Community organizations or non-profits
+- Places of worship
+- Online learning communities or virtual instructional spaces
+- Any setting where teaching, coaching, or facilitation occurs
 
-### Activity: Read and Reflect
+#### Working With a Trinity Faculty Mentor {.unnumbered}
 
-::: {.learning-activity}
+You may also ask a Trinity faculty member to serve as your mentor and use their class as your practicum site. This is a great option if you don’t have an immediate placement or want additional support and feedback throughout the process.
 
-Review adult learning theory principles in Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. New Directions for Adult and continuing Education, 89. Jossey-Bass. Article is available through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
+#### If You Don’t Have a Workplace {.unnumbered}
 
-:::
+You do not need to be employed to complete your practicum. Many students secure placements by:
 
-## Gibb’s Reflective Cycle (1988)
+- Reaching out to local organizations, schools, or community groups
+- Partnering with a trainer, facilitator, or professor to observe and co-facilitate
+- Exploring networks in professional, academic, community, or faith-based setting
 
-Reflective practice generally includes elements of self-evaluation, assessment of experience, reflective questioning, and conclusions or further inquiry. It is often conducted individually, but can also include elements of peer observation and feedback. As Larrivee (2000) argues, critical reflection also involves questioning of the status quo, including “examining the assumptions that underlie classroom practices” (p. 297). This is particularly important, since most of us have been students ourselves: we can too easily fall into the habit of replicating the way we have been taught, without evaluating the effectiveness of those practices.
+If you’re not sure whether a site will meet the requirements, reach out to your instructor for guidance. The goal is to choose a placement that supports your learning, allows you to practice facilitation skills, and provides opportunities for feedback from a mentor.
 
-Larrivee (2000) describes a process of critical reflection that involves three stages, arguing that the process is “more cyclical than linear, more incremental than sequential” (p. 304). The process she lays out includes the three key elements/stages of “examination,” “struggle,” and “perceptual shift” (p. 305).
+**Note:** Remember that your practicum site and mentor must be confirmed **before the course starts** so that you are ready to begin your experiential learning from day one. Because securing a practicum site and mentor can take some time, we recommend starting this process at least **a month in advance**.
 
-As you prepare for your coaching/facilitation experiences in your practicum, you are challenged to consider the value of reflective practice, and how you can develop your own practice of self-reflection and critical inquiry. We will explore Gibbs’ Reflective Cycle, which you will use throughout this practicum.
+###
 
-Gibb’s Reflective Cycle (1988) includes six steps: description, feelings, evaluation, analysis, conclusion, and action plan. As you engage in your professional practice through this practicum, you will be asked to complete these steps for each element of the practicum (i.e. classroom observation, lesson plan design, and facilitation).
+### Activity: Describe your Practicum Site and Mentor {.unnumbered}
 
-::: {#fig-U1xdiagram}
+Create a description of your practicum site. This should include details such as whether you will be observing a specific professor, teacher, or trainer, and the context for your observation and facilitation. For example, will you be observing a professor and then facilitating live discussions in her onsite class?
 
-![](assets/u1/U1-diagram.png){fig-alt="A cyclical diagram showing the reflective cycle" .lightbox fig-align="left"}
+Note: Although you need to identify your site for this assignment, you should consider whether you want to keep the site anonymous for your discussions in the Practicum Course. If so, be sure to indicate in your proposal how you will avoid identifying details in course discussions.
 
-A cyclical diagram showing the reflective cycle
+Complete and include the signed [Mentor Agreement](https://far.twu.ca/ldrs/667/assignments/assignment-2/LDRS_667_Mentor_Agreement.pdf){target="_blank"} in your practicum proposal.
 
-:::
+**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
-- **Description:** You will begin by describing the teaching/facilitation experience (or the process of designing a lesson plan).
-- **Feelings:** You will consider the feelings (and the feelings of students) during the teaching/learning process.
-- **Evaluation:** In this step, you will evaluate the experience.
-- **Analysis:** You will then analyze the experience. At this stage, you will find it helpful to look at the experience through the lens of the literature you have read in previous courses.
-- **Conclusion:** At this stage, you will draw conclusions about your teaching/learning experience.
-- **Action Plan:** Based on the previous steps, you will develop steps to take to continually improve your teaching/facilitation practice.
+## Preparing to Teach/Facilitate
 
-In the Learning Activities, you will review resources that provide a deeper look at Gibbs' Reflective Cycle. As you review those resources, begin thinking about how you will apply these within your practicum setting. You will write about this in your Reflective Practice Discussion 2.
+As you prepare for your practicum experience, now is a great time to review materials you have previously studied in your graduate studies. As you consider these materials, begin to think about the nature of the learning environment you want to create, and the learning experiences you imagine for your students. Consider what you hope to learn in this Practicum by observing your Practicum Mentor. Reflect on what skills you hope to develop. This is a great time to dive into some of the books, articles, and videos you studied in previous courses and have wanted to read/view again.
 
-### Activity: Read and Reflect
+### Activity: Preparation for Practicum
 
-::: {.learning-activity}
+**Estimated Time: 60 minutes**
 
-- Read: Larrivee, B. (2000). [Transforming teaching practice: Becoming the critically reflective teacher](http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf){target="_blank"}. Reflective Practice, 1(3), 293–307.
-- Read: Forrest, M. E. S. (2008). On becoming a critically reflective practitioner. Health Information & Libraries Journal, 25(3), 229-232. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
-- Read: Claiborne, L., Morrell, J., Bandy, J., & Bruff, D., 2018. [Teaching Outside the Classroom](https://cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom){target="_blank"}.
-- Read: Mulder, P. (2018). [Gibbs Reflective Cycle](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"} by Graham Gibbs.
-- Read: University of Edinburgh (n.d.). [Gibb’s Reflective Cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}.
+To prepare for the practicum, review the relevant textbooks and resources. Begin by re-reading the following chapters from *The Courage to Teach: Exploring the Inner Landscape of a Teacher’s Life* (Palmer, 2017):
 
-:::
+- "Introduction"
+- Chapter 1, "The Heart of a Teacher"
+- Chapter 3, "The Hidden Wholeness: Paradox in Teaching and Learning"
+
+If you need a refresher on how to write Learning Outcomes for your practicum, review the prior course materials along with the following resources:
+
+- "[Learning Outcomes"](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"} (Western University Centre for Teaching and Learning, n.d.)
+
+**Figure** *Formula for a Student Learning Outcome*
+
+Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+
+You may also wish to review your Reflective Journal from previous courses. As you review these materials, consider what you hope to learn in your Practicum experience.
+
+##
+
+## Reflecting on Your Learning Goals
+
+This Practicum is an opportunity not to teach or facilitate, but to reflect deeply on your growth as a coach and facilitator. As part of your practicum proposal, you will develop **personal learning outcomes**—statements that capture what you hope to learn through your observation, lesson planning, and facilitation experiences.
+
+Think of this as a chance to connect your practicum work to the concepts and skills you have explored in previous courses: creating authentic learning communities, designing culturally inclusive teaching and learning experiences, coaching for transformational learning, and applying adult learning theory in practical settings.
+
+### Activity: Create Personal Learning Outcomes
+
+Referring to the tips below, create three personal learning outcomes that describe what you want to learn in this practicum. These learning outcomes will shape your experiential learning in this practicum.
+
+#### Tips for Writing Your Learning Outcomes {.unnumbered}
+
+1. **Be specific and realistic.** Focus on a skill or knowledge you can reasonably develop in 20 hours of experiential learning (observation, lesson plan design, and facilitation).
+2. **Reflect on what you have learned already.** How can your practicum experience build on what you’ve already learned?
+3. **Think about how you want to grow.** Learning outcomes should describe what you want to *learn*, not just what you plan to do.
+4. **Use one clear verb per outcome.** For example: identify, design, facilitate, apply, analyze, integrate. (Refer to Bloom’s Taxonomy if you’re looking for learning verbs).
+5. **Focus on the outcome, not the process**. In your learning outcomes, focus on what you hope to learn – such as being able to design a lesson plan or facilitate an online discussion board.
+
+**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+
+#### Suggested Approach {.unnumbered}
+
+For your Practicum Proposal, you will develop three learning outcomes for yourself – three things you want to learn. Since your practicum includes three core areas (observation, lesson planning, and facilitation), you might consider one learning outcome for each core component of the practicum:
+
+#### Observation (Minimum 10 hours) {.unnumbered}
+
+Think about what you hope to notice and understand by watching someone else teach or facilitate. For example, during your observation hours, you might want to specifically observe how the instructor creates an inclusive, authentic learning community, or the strategies they use for engaging adult learners in meaningful dialogue. You might also want to notice how the instructor adapts their content, based on the diverse needs of the learner.
+
+Once you determine what you want to learn, you can then write a learning outcome for yourself, such as: At the completion of this practicum, I will be able to: Identify strategies facilitators use to create culturally inclusive learning spaces.
+
+#### Lesson Plan Design and Facilitation (Minimum 10 hours, Minimum 3 Lessons) {.unnumbered}
+
+Reflect on what you hope to learn by designing a lesson plan – and facilitating that lesson plan. For example, you will design lesson plans that incorporate culturally responsive teaching strategies and adult learning theory, and focus on creating an authentic learning community.
+
+Once you determine what you want to learn, you can then write a learning outcome for yourself, such as: At the completion of this practicum, I will be able to: Design a lesson plan that builds on the learners’ current knowledge.
+
+#### Facilitation or Teaching (Minimum 1 hour total; 20 minutes minimum per session) {.unnumbered}
+
+Reflect on what you hope to learn as you practice facilitating an online or onsite discussion. You may want to learn how to facilitate a discussion in a way that promotes deep learning and critical thinking. Perhaps you want to focus on learning how to keep a conversation going among students, centering their learning by asking students to talk more than you do. Or, perhaps you might want to learn how to adjust your facilitation style based on learners needs.
+
+Once you’ve taken some time to reflect on what you want to learn through your facilitation, you can write a learning outcomes such as: At the completion of this practicum, I want to be able to: Facilitate a discussion that promotes deep learning.
+
+### Activity: Create Detailed Plans for Your Practicum
+
+Create the following sections for your practicum proposal:
+
+- **Planned Schedule for 20 Hours of Experiential Learning**, to include:
+    - Observation of Teaching (Minimum of 10 hours): Include details about when and where you will observe teaching. Be sure to coordinate this now with those you hope to observe.
+    - Designing and Facilitating Lessons/Classes (Minimum of 10 hours, Minimum of 3 Lessons). Include details about the three lessons you plan to design and the lesson plans you hope to facilitate. (Ideally, you will facilitate the lesson plans you design, however, you may need to facilitate different lessons, based on the needs of your practicum site).
+    - Facilitating Online or Face-to-Face Discussions: Include details about where and when you plan to facilitate these discussions.
+- **Learning:** An analysis of how this practicum will contribute to the achievement of practicum learning outcomes. Be specific. Explain how each element of the practicum will contribute to the personal learning outcomes you develop.
+- **Career Planning:** A discussion of how this practicum will build on your current academic, personal, and professional knowledge, and how it will contribute to your career goals. Be specific.
+
+**Note:** This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
 ## Summary {.unnumbered}
 
-In this first unit, you have had the opportunity to learn about reflective practice, and how it can help you develop as a facilitator. Engaging in reflective practice throughout your practicum as you participate in classroom observation, designing lesson plans, and facilitating learning can help you develop a process through which you become a critically reflective practitioner throughout your career.
+In this pre-work, you have prepared for your practicum experience by developing a Practicum Proposal, and reviewing prior course materials.
 
-## Assessment {.unnumbered}
+###
 
-**Reflective Practice Discussion 1: Experiential Learning**
+### Checking Your Learning {.unnumbered}
 
-Write a discussion post. Describe the context in which you will conduct your experiential learning (practicum). (Consider whether you want or need to keep the site anonymous and, if so, be sure to avoid identifying details.) List the learning outcomes you developed for your practicum experience (from your Practicum Proposal). Specifically describe how you will assess your own learning. Discuss how your practicum experience will align with your personal identity, values, and beliefs as a teacher/facilitator.
+As you prepare to launch your practicum experience, you may want to check to make sure that you are able to:
 
-Respond to the posts of two other learners, providing reflective feedback on their learning outcomes, practicum experience, and/or their integration of their identity, values, and beliefs with their practicum plans.
-
-Reflective Practice Discussion 2: Applying a Reflective Practice Model
-
-Outline a plan for how you will apply the key elements of Gibb’s (1988) Reflective Cycle, in your classroom observations and teaching/facilitation experience.
-
-Respond to the posts of two other learners, providing suggestions for how they might maximize their experience of the reflective cycle in their practicum.
-
-::: {.accordion title="Rubric: Reflective Practice Discussion Rubric (Click to expand)"}
-
-| |Unsatisfactory 0% |Developing 50% (C)|Proficient 75% (B)|Exemplary 100% (A)|
-|--- |--- |--- |--- |--- |
-|APA/WRITING| Paper does not model language and conventions used in scholarly literature. Writing is not well-organized. Several errors in grammar or composition. Sources are not cited. APA citations are not appropriately formatted.|Paper partially models language and conventions used in scholarly literature. Writing is somewhat well organized and includes some errors in grammar or composition. Not all sources cited. APA citations are generally formatted correctly, with several errors.|Paper consistently models language and conventions used in scholarly literature. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are appropriately cited (including in-text citations and bibliography information). Few (if any) errors in APA citations.|Paper is an exemplar of language and conventions used in scholarly literature. Writing is well-organized and free of errors in grammar or composition. All resources are appropriately cited. No errors in APA format.|
-|DEVELOPING a COHESIVE and LOGICAL ACADEMIC ARGUMENT|Does not make a focused, cohesive, or logical academic argument. Paper is confusing, and is missing an introduction, body, or conclusion. Transitions between sections and ideas are missing.|Makes an academic argument that is only partially focused, cohesive and logical. Paper is generally organized, but is missing an introduction, body, or conclusion. Transitions between sections and ideas are unclear.|Makes a focused, cohesive, logical academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear.|Makes a focused, cohesive, logical and compelling academic argument. Paper is effectively organized and includes an introduction, body, and conclusion. Transitions between sections and ideas are clear, and build on each other.|
-|INTERVIEW SYNOPSIS and ANALYSIS|Does not include a detailed discussion of key elements of a culturally-inclusive learning community, including the physical environment, teacher/student relationships, and key aspects of the community. Does not include an analysis.|Lists but does not discuss key elements of a culturally-inclusive learning community, including the physical environment, teacher/student relationships, and key aspects of the community. Includes a partial analysis.|Includes a detailed discussion of key elements of a culturally-inclusive learning community, including the physical environment, teacher/student relationships, and key aspects of the community. Includes a thoughtful analysis.|Includes a detailed discussion of key elements of a culturally-inclusive learning community, including the physical environment, teacher/student relationships, and key aspects of the community. Includes a thoughtful analysis, integrating scholarly literature to support analysis and furthering scholarly thinking related to inclusive learning environments.|
-|SCHOLARLY INTEGRATION|Does not integrate references to support claims and assertions made in the paper.|Integrates references to support some of the claims and assertions made in the paper.|Integrates references to support claims and assertions made in the paper.|Integrates references to support claims and assertions made in the paper, effectively synthesizing different perspectives and research results from scholarly sources.|
-|TOTAL|0= 0% (F)|10 = 50% (C)|15 = 75% (B)|20 = 100% (A+)|
-
-:::
+- Identify a practicum site and mentor
+- Formulate personal learning outcomes for the practicum experience.
+- Develop a plan to complete the required 10 hours of observation and 10 hours of lesson plan design and facilitation (including facilitation of an online or onsite discussion).
 
 ## References {.unnumbered}
 
-- Claiborne, L., Morrell, J., Bandy, J., & Bruff, D. (2018). Teaching outside the classroom. Vanderbilt University Center for Teaching. Retrieved from: [https://cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom](https://cft.vanderbilt.edu/guides-sub-pages/teaching-outside-the-classroom){target="_blank"}
-- Forrest, Margaret E. S. (2008). On becoming a critically reflective practitioner. Health Information & Libraries Journal, 25(3), 229-232.
-- Larrivee, B. (2000). Transforming teaching practice: Becoming the critically reflective teacher. Reflective Practice, 1(3), 293–307. Retrieved from: [http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf](http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf){target="_blank"}
-- Merriam, S. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. New Directions for Adult and continuing Education, 89. Jossey-Bass.
-- Mulder, P. (2018). Gibbs' Reflective Cycle by Graham Gibbs. Retrieved from: [https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"}
-- University of Edinburgh (n.d.). Gibbs' Reflective Cycle. Retrieved from: [https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}
+- Palmer, P.J. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life*. Jossey-Bass.
+- Centre for Teaching and Learning. *Learning outcomes.* University of Western Ontario*.* [https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"}
 
-## Checking Your Learning {.unnumbered}
+## Assignment 1: Practicum Proposal (10%)
 
-::: {.check}
+### Introduction {.unnumbered}
 
-Before you move on to the next unit, you may want to check to make sure that you are able to:
+Write a 3-5 page Practicum Proposal including the practicum site, practicum mentor, personal learning outcomes, and planned schedule for practicum. This practicum requires a minimum of 20 hours of experiential learning, including 10 hours of classroom observation (online or face-to-face, and a minimum of 10 hours dedicated to designing lesson plans and facilitating learning (combined). Include a discussion of how this practicum will contribute to your learning and career goals.
 
-- Synthesize personal identity, values, and beliefs with personal learning outcomes for practicum experience.
-- Describe key elements of reflective practice.
+### Instruction {.unnumbered}
 
-:::
+After identifying a practicum site, write a 3-5 page Practicum Proposal, including the following sections:
+
+1. **Practicum Site:** Include a description of your practicum site. This should include details such as whether you will be observing a specific professor, teacher, or trainer, and the context for your observation and facilitation. For example, will you be observing a professor and then facilitating live discussions in her onsite class? Note: Although you need to identify your site for this assignment, you should consider whether you want to keep the site anonymous for your discussions in the Practicum Course. If so, be sure to indicate in your proposal how you will avoid identifying details in course discussions.
+2. **Practicum Mentor:** Include the signed [Mentor Agreement](https://far.twu.ca/ldrs/667/assignments/assignment-2/LDRS_667_Mentor_Agreement.pdf){target="_blank"}.
+3. **Learning Outcomes:** Include three personal learning outcomes that describe what you want to learn in this practicum. These learning outcomes will shape your experiential learning in this practicum.
+4. **Planned Schedule for 20 Hours of Experiential Learning,** to include:
+- Observation of Teaching (Minimum of 10 hours): Include details about when and where you will observe teaching. Be sure to coordinate this now with those you hope to observe.
+- Designing and Facilitating Lessons/Classes (Minimum of 10 hours, Minimum of 3 Lessons). Include details about the three lessons you plan to design and the lessons you plan to facilitate.
+- Facilitating Online or Face-to-Face Discussions: Include details about where and when you plan to facilitate these discussions.
+1. **Learning:** An analysis of how this practicum will contribute to the achievement of practicum learning outcomes. Be specific. Explain how each element of the practicum will contribute to the personal learning outcomes you develope.
+2. **Career Planning:** A discussion of how this practicum will build on your current academic, personal, and professional knowledge, and how it will contribute to your career goals. Be specific.
+
+The Practicum Proposal should be written in APA format.
+
+**Assignment Submission**
+
+Submit your Practicum Proposal in the Assessment Dropbox in Moodle for your instructor to review. The Practicum Proposal is **due prior to the start of the Practicum course**, usually 1-2 weeks in advance.
+
+The Practicum Proposal is worth 10% of your course grade.
+
+This is a required assignment. You cannot begin any onsite or online elements of this course until you receive approval from your professor.
+
+### Rubric {.unnumbered}
+
+<table> <colgroup> <col style="width: 18%" /> <col style="width: 20%" /> <col style="width: 20%" /> <col style="width: 19%" /> <col style="width: 19%" /> </colgroup> <thead> <tr class="header"> <th><strong>Criteria</strong></th> <th><strong>Needs Improvement (0%)</strong></th> <th><strong>Developing</strong> <strong>(70%)</strong></th> <th><strong>Proficient</strong> <strong>(80%)</strong></th> <th><strong>Exemplary (100%)</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Practicum site (10%)</strong></td> <td>Does not include a description of the context in which the practicum will be conducted. If the site will be anonymous to other learners, does not include a plan for how identifying details will be avoided in course discussions.</td> <td>Includes an incomplete description of the context in which the practicum will be conducted. If the site will be anonymous to other learners, includes an incomplete plan for how identifying details will be avoided in course discussions.</td> <td>Includes a description of the context in which the practicum will be conducted. If the site will be anonymous to other learners, includes a plan for how identifying details will be avoided in course discussions.</td> <td>Includes a description of the context in which the practicum will be conducted, including an analysis of the learning environment. If the site will be anonymous to other learners, includes a plan for how identifying details will be avoided in course discussions. Note: A signed mentor agreement is required before the practicum can begin.</td> </tr> <tr class="even"> <td><strong>Mentor Agreement</strong> <strong>(10%)</strong></td> <td>Does not include a signed mentor agreement. N<em>ote: A signed mentor</em> agree<em>ment is required before the practicum can begin.</em></td> <td>A mentor agreement is included but is incomplete. <em>Note: A complete, signed mentor agreement is required before the practicum can begin.</em></td> <td>Includes a signed mentor agreement.</td> <td>Includes a signed mentor agreement.</td> </tr> <tr class="odd"> <td><strong>Practicum Learning Outcomes</strong> <strong>(20%)</strong></td> <td>Does not include three personal learning outcomes for the practicum.. LOs are not at an appropriate level for graduate-level practicum. The LOs do not begin with "At the completion of this practicum, I will be able to…", and/or do not include one learning verb (apply, analyze, etc.) and/or one noun (what students will learn).</td> <td>Includes 1-3 personal learning outcomes. practicum goals.. LOs are close to being at appropriate level for graduate-level practicum. The LOs do not begin with "At the completion of this practicum, I will be able to…", and/or include more than/less than one learning verb (apply, analyze, etc.) and more than/less than one noun (what students will learn).</td> <td>Includes 3 personal learning outcomes for the practicum. Learning outcomes are at an appropriate level for a graduate-level practicum. The LOs begin with "At the completion of this practicum, I will be able to…", and include one learning verb (apply, analyze, etc.) and one noun (what students will learn).</td> <td>Includes 3 personal learning outcomes for the practicum.s. LOs are at an appropriate level for graduate-level practicum and will expand the expertise of the practicum student. The LOs begin with "At the completion of this practicum, I will be able to…", and include one learning verb (apply, analyze, etc.) and one noun (what students will learn).</td> </tr> <tr class="even"> <td><strong>Schedule for Experiential Learning</strong> <strong>(10%)</strong></td> <td>Does not include a plan to achieve the requirements of a minimum of 10 hours of classroom observation, and 10 hours of curriculum design and facilitation.</td> <td>Includes a vague plan to achieve the requirements, but does not specifically include a plan for a minimum of 10 hours of classroom observation, and/or 10 hours of curriculum design and facilitation.</td> <td>Includes a specific plan to achieve the requirements of a minimum of 10 hours of classroom observation, and 10 hours of curriculum design and facilitation.</td> <td>Includes a specific plan to achieve the requirements of a minimum of 10 hours of classroom observation, and 10 hours of curriculum design and facilitation, including specific dates/times.</td> </tr> <tr class="odd"> <td><strong>Achievement of Practicum Learning Outcomes</strong> <strong>(20%)</strong></td> <td>Does not include an analysis of how the practicum will contribute to achievement of practicum learning outcomes.</td> <td>Includes a vague description of how this practicum will contribute to achievement of practicum learning outcomes, or does not address all learning outcomes.</td> <td>Includes an analysis of how this practicum will contribute to achievement of practicum learning outcomes.</td> <td>Includes an insightful analysis of how this practicum will contribute to achievement of practicum learning outcomes, integrating scholarly sources to support this analysis.</td> </tr> <tr class="even"> <td><strong>Career Preparation</strong> <strong>(10%)</strong></td> <td>Does not include a discussion of how this practicum will build on current academic, personal, and professional knowledge. Does not include an explanation of how it will contribute to career goals.</td> <td>Includes a partial discussion of how this practicum will build on current academic, personal, and professional knowledge OR includes a partial explanation of how it will contribute to career goals.</td> <td>Includes a discussion of how this practicum will build on current academic, personal, and professional knowledge. Includes an explanation of how it will contribute to career goals.</td> <td>Includes an analysis of how this practicum will build on current academic, personal, and professional knowledge. Includes an explanation of how it will contribute to career goals. Includes references to scholarly, peer-reviewed resources to support this analysis.</td> </tr> <tr class="odd"> <td><strong>APA/Writing (10%)</strong></td> <td>The practicum proposal does not follow the proposal guidelines and/or writing is not well-organized and includes several errors in grammar or composition and/or some resources are not appropriately cited using APA format.</td> <td>The practicum proposal follows some of the proposal guidelines. Writing is somewhat organized and includes a few errors in grammar or composition. All resources are cited, but there are some errors in APA format.</td> <td>The practicum proposal follows the template. Writing is well-organized and includes few (if any) errors in grammar or composition. All resources are cited using APA format, with a few errors.</td> <td>The practicum proposal follows the template. Writing is well-organized and includes no errors in grammar or composition. All resources are appropriately cited using APA format.</td> </tr> <tr class="even"> <td></td> <td><strong>Needs Improvement (0%)</strong></td> <td><strong>Developing</strong> <strong>(70%)</strong></td> <td><strong>Proficient</strong> <strong>(80%)</strong></td> <td><strong>Exemplary (100%)</strong></td> </tr> </tbody> </table>
