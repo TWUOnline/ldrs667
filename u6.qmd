@@ -28,7 +28,11 @@ In this unit, you will engage in a summative reflective practice of your practic
 
 ### Learning Activities {.unnumbered}
 
+::: {.learning-activity}
+
 - Prepare and complete your final assignment: Reflective Practice Portfolio.
+
+:::
 
 ### Assessment {.unnumbered}
 

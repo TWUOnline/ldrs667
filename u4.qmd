@@ -49,10 +49,14 @@ In addition to these learning outcomes, for each lesson plan you should also be 
 
 Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
 
+::: {.learning-activity}
+
 - Review all provided resources and consider the guiding questions before beginning your designs.
 - Review the materials provided to guide the design of Lesson Plan 1 and participate in the collaborative whiteboard.
 - Review the materials provided to guide the design of Lesson Plan 2 and participate in the collaborative whiteboard.
 - Review the materials provided to guide the design of Lesson Plan 3 and participate in the collaborative whiteboard.
+
+:::
 
 ### Assessment {.unnumbered}
 
@@ -193,6 +197,8 @@ Each lesson plan will also be designed to incorporate:
 
 ### Activity: Preparation for Lesson Plan Design
 
+::: {.learning-activity}
+
 In preparation for designing lesson plans, be sure to review these materials:
 
 - Queens University Center for Teaching and Learning. (n.d.) [Learning outcomes; course/curriculum design.](http://www.queensu.ca/ctl/teaching-support/course-and-program-design){target="_blank"}
@@ -208,6 +214,8 @@ In preparation for designing lesson plans, be sure to review these materials:
 - Why are learning outcomes so important to include in a lesson plan?
 - What is the value of an ungraded, formative learning activity? How will I convey this value to students who do not want to participate in ungraded activities?
 - What assessment tool will allow me to effectively answer the question: did students learn what I wanted them to learn?
+
+:::
 
 ## Lesson Plan 1: Authentic and Inclusive Learning Experiences
 
@@ -237,15 +245,22 @@ In our online courses, Trinity Western University seeks to create learning commu
 
 Combined, these three elements can lead to transformational learning – an aspiration we hold in this course and program – and a fundamental goal of higher education in a broader sense.
 
-::: figure
+::: {#fig-image}
 
-**Figure ***Transformational Learning*
+![](assets/u4/image2.jpg){#fig-u4_1 .lightbox fig-alt="Transformational Learning"}
 
-![](assets/u4/image2.jpg)
+*Transformational Learning*
+
+:::
+
+::: text-source
+*Source:* Created by C. Madland.
 
 :::
 
 ### Activity: Prepare for Lesson Plan 1: Authentic and Inclusive Learning Experiences
+
+::: {.learning-activity}
 
 In preparation for designing this lesson plan, review these materials, as well as materials from previous courses related to this concept.
 
@@ -253,7 +268,7 @@ Review the three learning community models you studied in LDRS 664:
 
 - Pyramid Model of Learning Communities in Brower, A. & Dettinger, K. (1998). What is a learning community?: Toward a comprehensive model. *About Campus: Enriching the Student Experience. 3*(5), 15-21.
 - Trinity Community of Inquiry in Madland, C. (2017). The Trinity Community of Inquiry. Creative Commons License.
-- Community of Truth in Palmer, P. (2017). T*he courage to teach: Exploring the inner landscape of a teacher’s life.* Wiley.
+- Community of Truth in Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* Wiley.
 
 As you recall what you learned in LDRS 664 Creating Authentic Learning Communities and other courses, consider 2-3 concepts or teaching strategies you learned related to creating authentic and inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
 
@@ -268,6 +283,8 @@ As you recall what you learned in LDRS 664 Creating Authentic Learning Communiti
 - Which of these Liberating Structures could you use to facilitate learning in this course/lesson?
 - What activities would work in an online setting – such as an asynchronous discussion activity or a synchronous Zoom meeting with a class?
 - Make note of which activities you’re interested in, and think about how they could be used in a learning activity to ensure students achieve a lesson learning outcome.
+
+:::
 
 ## Lesson Plan 2: Cultural Competency
 
@@ -293,6 +310,8 @@ As you design your lesson plan, you will need to incorporate culturally-inclusiv
 
 ### Activity: Prepare for Lesson Plan 2: Cultural Competency
 
+::: {.learning-activity}
+
 In preparation for designing this lesson plan, review these materials, as well as materials from previous courses (such as LDRS 662 Culturally Inclusive Teaching and Learning) related to culturally competent teaching:
 
 - LaFever, M. (2016). Switching from Bloom to the Medicine Wheel: Creating learning outcomes that support Indigenous ways of knowing in post-secondary education. Intercultural Education. [https://www.tandfonline.com/doi/abs/10.1080/14675986.2016.1240496](https://www.tandfonline.com/doi/abs/10.1080/14675986.2016.1240496){target="_blank"}
@@ -302,22 +321,14 @@ In preparation for designing this lesson plan, review these materials, as well a
 
 As you recall your learning in LDRS 662 Culturally Inclusive Teaching and Learning and other courses, consider 2-3 concepts or teaching strategies you have learned related to creating culturally inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
 
-::: {.prote}
-
-Comment(s) from Werd:
-
-Reference: Collaborative White Board,
-
-Comment: Collaborative White Board Ran Kang | 2026-02-10T14:20:21
-
-:::
-
 **Questions to Consider**
 
 - What is the cultural environment in which I am teaching? What are students’ expectations of faculty/student roles?
 - In the cultural environment I am teaching, what is the nature of learning and knowing? How can I ensure I am respecting indigenous views of knowledge and truth?
 - What elements of creating culturally inclusive learning environments do I want to include in my lesson plan?
 - How can I select course resources that are culturally inclusive? Do the resources I am considering represent diverse cultural viewpoints?
+
+:::
 
 ## Lesson Plan 3: Creative and Critical Thinking
 
@@ -349,6 +360,8 @@ The combination of experiential learning and scholarly knowledge can be powerful
 
 ### Activity: Prepare for Lesson Plan 3: Creative and Critical Thinking
 
+::: {.learning-activity}
+
 In preparation for designing this lesson plan, review these materials, as well as materials from previous courses (such as LDRS 627, Unit 5: Teaching for Critical Thinking) related to creative and critical thinking:
 
 - Paul, R. and Elder, L. (2006.) [The miniature guide to critical thinking: Concepts and tools.](https://www.criticalthinking.org/files/Concepts_Tools.pdf){target="_blank"}
@@ -359,23 +372,13 @@ In preparation for designing this lesson plan, review these materials, as well a
 
 As you recall your learning in courses throughout your graduate certificate, consider 2-3 concepts or teaching strategies you have learned related to teaching critical or creative thinking. In the Collaborative White Board, share concepts/strategies on critical and creative thinking with other learners.
 
-::: {.prote}
-
-Comment(s) from Werd:
-
-Reference: Collaborative White Board
-
-Comment: Collaborative White Board Ran Kang | 2026-02-10T14:20:09
-
-Comment: Collaborative White Board Ran Kang | 2026-02-10T14:12:03
-
-:::
-
 **Questions to Consider**
 
 - In the course/lesson I am teaching/facilitating, what learning outcome requires that students demonstrate critical or creative thinking?
 - What strategies can I incorporate into a lesson plan to ensure students engage in learning activities that support their development of critical and creative thinking?
 - How will I be able to assess (either formatively or summatively) student learning related to critical or creative thinking? What assessment tool would I use?
+
+:::
 
 ## Summary {.unnumbered}
 

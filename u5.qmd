@@ -26,9 +26,13 @@ In this unit, you will teach/facilitate a minimum of three lessons. By the end o
 
 Here is a checklist of learning activities you will benefit from as you complete this unit. You may find it useful for planning your work.
 
+::: {.learning-activity}
+
 - Teach or facilitate a minimum of three lessons, in an online or face-to-face environment. (Note: You will complete a minimum of 10 hours of curriculum design and facilitation, combined. Ideally, you will facilitate a lesson plan you designed, however, that may not always be practical.)
 - Engage in reflective practice throughout the teaching/facilitation process.
 - Complete the Facilitation Log (The log will be submitted as part of your Reflective Practice Practicum Portfolio).
+
+:::
 
 ### Assessment {.unnumbered}
 
@@ -80,13 +84,17 @@ As you facilitate each lesson, you will complete a Reflective Practice Discussio
 
 ### Activity: Classroom Observation & Facilitation Log
 
+::: {.learning-activity}
+
 As a requirement for this course, you must complete a minimum of 10 hours of lesson plan design and facilitation combined.
 
 During your practicum, you will teach or facilitate a minimum of three lessons in either an online or face-to-face setting. You are required to document these sessions using the Classroom Observation & Facilitation Log.
 
-- [[Template] Classroom Observation & Facilitation Log](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/_layouts/15/Doc.aspx?sourcedoc=%7B85FCC2BF-9A2B-4B8C-8645-969DF3BD1E6E%7D&file=LDRS%20667_Classroom%20Observation%20Log.docx&action=default&mobileredirect=true)
+- [[Template] Classroom Observation & Facilitation Log](assets/u5/LDRS%20667_Classroom%20Observation%20Log.docx){target="_blank"}
 
-Note: You are required to submit the completed Classroom Observation & Facilitation Log, along with verification of hours, as part of your final assignment: Reflective Practice Practicum Portfolio.
+*Note*: You are required to submit the completed Classroom Observation & Facilitation Log, along with verification of hours, as part of your final assignment: Reflective Practice Practicum Portfolio.
+
+:::
 
 ## Summary {.unnumbered}
 

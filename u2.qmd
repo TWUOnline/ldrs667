@@ -84,10 +84,14 @@ Read the following articles and websites on adult learning theory principles. As
 
 ### Activity: Adult Learning Theory Principles
 
+::: {.learning-activity}
+
 Read and review the following resources. As you read, be sure to focus on the adult learning principles you hope to integrate into your facilitation. As you design lessons for this practicum, you will be required to integrate adult learning theory into your lesson plan design.
 
-- Bouchrika, I. (2026). The andragogy approach: Knowles’ adult learning theory principles in 2026. Education. [https://research.com/education/the-andragogy-approach](https://research.com/education/the-andragogy-approach){target="_blank"}?.
+- Bouchrika, I. (2026). [The andragogy approach: Knowles’ adult learning theory principles in 2026.](https://research.com/education/the-andragogy-approach){target="_blank"} Education.
 - Merriam, S. (2001). [Andragogy and self-directed learning: Pillars of adult learning theory](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=2c18984a-7924-30b0-bdbd-805ffc062e0d){target="_blank"}. *New Directions for Adult and Continuing Education*, *2001*(89), 3-13. [https://doi.org/10.1002/ace.3](https://doi-org.twu.idm.oclc.org/10.1002/ace.3){target="_blank"}
+
+:::
 
 ## Gibb’s Reflective Cycle (1988)
 
@@ -125,6 +129,8 @@ You may have noticed that Gibbs’ Reflective Cycle does not specifically includ
 
 ### Activity: Reflective Practice
 
+::: {.learning-activity}
+
 In the Learning Activities, you will review resources that provide a deeper look at Gibbs’ Reflective Cycle. As you review those resources, begin thinking about how you will apply these within your practicum setting. You will write about this in your Reflective Practice Discussion 2.
 
 Read the following resources:
@@ -142,6 +148,8 @@ Select one of the following articles to learn more about a topic you’re intere
 - If you’d like to learn more about Gibbs’ Reflective Cycle, including examples, read one of the following:
     - Mulder, P. (2018). [Gibbs' Reflective Cycle](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"} by Graham Gibbs.
     - University of Edinburgh (n.d.). [Gibbs' Reflective Cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}.
+
+:::
 
 ## Summary {.unnumbered}
 
