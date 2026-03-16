@@ -6,7 +6,7 @@ Welcome to LDRS 667 Practicum: Personal and Professional Practice and Reflection
 
 Take a moment now to review the learning outcomes for this course:
 
-**Course Learning Outcomes**
+#### Course Learning Outcomes {.unnumbered}
 
 Upon successful completion of this course, you should be able to:
 
@@ -55,10 +55,14 @@ When you have completed this unit, you will be able to:
 
 ### Learning Activities {.unnumbered}
 
+::: {.learning-activity}
+
 Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
 
 - Read and review the resources provided, focusing on the adult learning principles you hope to integrate into your facilitation.
 - Review the resources that provide a deeper look at Gibbs’ Reflective Cycle, and begin considering how you will apply this framework within your practicum setting.
+
+:::
 
 ### Assessment {.unnumbered}
 

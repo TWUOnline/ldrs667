@@ -34,10 +34,14 @@ In this unit, you will engage in reflective practice through classroom observati
 
 Here is a list of learning activities that will support you in completing this unit. You may find it useful for planning your work.
 
+::: {.learning-activity}
+
 - Read Kawulich (2005) to understand the benefits of participant observation.
 - Review the provided resources to gain an understanding of various learning communities.
 - Prepare for your observation by reviewing the sample forms for both face-to-face and online teaching modalities.
 - Complete a minimum of 10 hours of classroom observation, documented through reflective practice and the classroom observation log.
+
+:::
 
 ## Classroom Observation
 
@@ -51,7 +55,7 @@ Using the Gibbs Reflective Cycle, you will describe and analyze your experience.
 
 Peer observation of teaching is a common practice in higher education, as we all have so much to learn from each other in terms of teaching approach, technique, style, etc. As you conduct your classroom observation, be sure to keep in mind that you are there in an observational role – not as an evaluator. Your goal is not to critique, but to learn by observing the lesson design and teaching strategies that seem to support student learning (keeping in mind that you may not be involved in observing the assessment of learning).
 
-### Activity: Classroom Observation {.unnumbered}
+### Activity: Classroom Observation
 
 ::: {.learning-activity}
 
@@ -127,7 +131,7 @@ In this unit, you have engaged in reflective practice as you have observed a min
 
 ## References {.unnumbered}
 
-- Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.
+Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.
 
 <!-- ## Discussion 3: Reflective Practice - Classroom Observation (Part 1)
 
