@@ -61,17 +61,17 @@ Examples of sensory-engaged teaching methods highlighted in LDRS 627:
 - discussion forums
 - use of interactive technology
 
-As you prepare to facilitate your lessons, you might find it helpful to review Silberman and Biech (2015). According to Silberman and Biech (2015), "Preparation is one of the most important ingredients for success" (p. 207). As a facilitator, engaging participants in the learning activity begins by demonstrating your credibility to facilitate the session. You can do this by focusing on the group’s attention, minimizing time wasters, setting expectations for how you want the group to work together, and effectively guiding participants who are unengaged or disruptive (Silberman & Biech, 2015). More details and specific strategies are recommended in chapters 11-15.
+As you prepare to facilitate your lessons, you might find it helpful to review Silberman and Biech [-@silbermanActiveTrainingHandbook2015]. According to Silberman and Biech [-@silbermanActiveTrainingHandbook2015], "Preparation is one of the most important ingredients for success" (p. 207). As a facilitator, engaging participants in the learning activity begins by demonstrating your credibility to facilitate the session. You can do this by focusing on the group’s attention, minimizing time wasters, setting expectations for how you want the group to work together, and effectively guiding participants who are unengaged or disruptive [@silbermanActiveTrainingHandbook2015]. More details and specific strategies are recommended in chapters 11-15.
 
-We often teach the way we have been taught – even if it’s not effective. As a facilitator, exploring new strategies will allow you to expand your expertise beyond what you have observed as a student. Through this practicum, your goal is not perfection, but progress, as you develop your facilitation skills. You should therefore commit to experimenting with some new strategies – even if they feel uncomfortable at first. Finding what works for you, what aligns with your personality and approach, can be empowering, as you seek to create the kind of learning experiences that bring life and meaning to the learning experience. As you consider what strategies you want to experiment with, be sure to review Silberman and Biech (2015), who provide many practical strategies in Chapter 3 for team building, just-in-time assessment and active learning. You may want to review Chapter 3 to explore strategies for: open discussion, response cards, polling, subgroup discussions, partners, go-arounds, games, calling on the next speaker, panels and fishbowls.
+We often teach the way we have been taught – even if it’s not effective. As a facilitator, exploring new strategies will allow you to expand your expertise beyond what you have observed as a student. Through this practicum, your goal is not perfection, but progress, as you develop your facilitation skills. You should therefore commit to experimenting with some new strategies – even if they feel uncomfortable at first. Finding what works for you, what aligns with your personality and approach, can be empowering, as you seek to create the kind of learning experiences that bring life and meaning to the learning experience. As you consider what strategies you want to experiment with, be sure to review Silberman and Biech [-@silbermanActiveTrainingHandbook2015], who provide many practical strategies in Chapter 3 for team building, just-in-time assessment and active learning. You may want to review Chapter 3 to explore strategies for: open discussion, response cards, polling, subgroup discussions, partners, go-arounds, games, calling on the next speaker, panels and fishbowls.
 
-In Chapter 13, Wang (2017) discusses the effectiveness of opening exercises, considers learning resistance and practical strategies. According to Wang (2017), eye contact and relaxed body language, engaging students, being professional and organized, and creating a hospitable learning environment all serve to create the conditions for student learning and engagement. As you’ll recall from LDRS 627, simply having a plan to host a discussion about a given topic is not sufficient; you need to carefully plan how you will engage learners in the discussion, draw out those who may not readily participate, create an environment where disagreement is valued and respectful, and ensure that the information shared is accurate. You will also strive to create an environment of inclusivity, where diverse viewpoints are valued and all students belong. For discussions, as with all other learning activities, preparation is required.
+In Chapter 13, Wang [-@Wang2017Theory] discusses the effectiveness of opening exercises, considers learning resistance and practical strategies. According to Wang [-@Wang2017Theory], eye contact and relaxed body language, engaging students, being professional and organized, and creating a hospitable learning environment all serve to create the conditions for student learning and engagement. As you’ll recall from LDRS 627, simply having a plan to host a discussion about a given topic is not sufficient; you need to carefully plan how you will engage learners in the discussion, draw out those who may not readily participate, create an environment where disagreement is valued and respectful, and ensure that the information shared is accurate. You will also strive to create an environment of inclusivity, where diverse viewpoints are valued and all students belong. For discussions, as with all other learning activities, preparation is required.
 
 You may also want to explore the [Session Lab library](https://www.sessionlab.com/library){target="_blank"}, which offers templates and methods for facilitating engaging conversations and classes. The Session Lab is a space where individual facilitators can share their strategies with each other, as facilitators are often quite generous in sharing their techniques for engaging learning and collaboration.
 
-Books like Lang’s (2021) Small Teaching: Everyday Lessons from the Science of Teaching and Darby and Lang’s (2019) Small Teaching Online: Applying Learning Science in Online Classes, also provide an overview of strategies proven by research to deepen student learning.
+Books like Lang’s [-@langSmallTeachingEveryday2021] Small Teaching: Everyday Lessons from the Science of Teaching and Darby and Lang’s [-@darbySmallTeachingOnline2019] Small Teaching Online: Applying Learning Science in Online Classes, also provide an overview of strategies proven by research to deepen student learning.
 
-In preparation for your facilitation experience, you may find it helpful to review the work of Wang (2017), Silberman and Biech (2015), Palmer (2017), Brown (2018) and others. You may also want to review liberating structures, and other facilitation resources you’ve compiled.
+In preparation for your facilitation experience, you may find it helpful to review the work of Wang [-@Wang2017Theory], Silberman and Biech [-@silbermanActiveTrainingHandbook2015], Palmer [-@palmerCourageTeachExploring2017], Brown (2018) and others. You may also want to review liberating structures, and other facilitation resources you’ve compiled.
 
 **As you review these materials, consider:**
 
@@ -80,7 +80,7 @@ In preparation for your facilitation experience, you may find it helpful to revi
 - How can I create an environment of inclusivity in the class?
 - What back-up plans do I need, in case the initial activity takes less time than I had planned?
 
-As you facilitate each lesson, you will complete a Reflective Practice Discussion Post, using Gibb’s (1988) reflective practice cycle to reflect on this experience. As you engage in both facilitation and reflective practice, be sure to integrate the literature and other materials from previous courses in your practice of teaching/facilitating.
+As you facilitate each lesson, you will complete a Reflective Practice Discussion Post, using Gibb’s [-@Gibbs1988] reflective practice cycle to reflect on this experience. As you engage in both facilitation and reflective practice, be sure to integrate the literature and other materials from previous courses in your practice of teaching/facilitating.
 
 ### Activity: Classroom Observation & Facilitation Log
 
@@ -108,11 +108,11 @@ In this unit, you have facilitated a minimum of three lessons in an online or fa
 :::
 
 ## References {.unnumbered}
-
+<!-- 
 - Silberman, M. L., & Biech, E. (2015). *Active training: A handbook of techniques, designs, case examples, and tips (4th ed.).* John Wiley & Sons
 - Wang, C. X. (2017). *Theory and practice of adult and higher education*. Information Age Publishing Inc.
 - Lang, J.M. (2021). *Small teaching: Everyday lessons from the science of learning* (2nd ed.) Jossey-Bass.
-- Darby, F. & Lang, J.M. (2019*). Small teaching online: Applying learning science in online classrooms.* Jossey-Bass.
+- Darby, F. & Lang, J.M. (2019*). Small teaching online: Applying learning science in online classrooms.* Jossey-Bass. -->
 
 <!-- ## Discussion 8: Reflective Practice – Facilitation 1
 

@@ -12,7 +12,7 @@ Classroom observation can be a powerful learning experience for both novice and 
 
 That’s why observation is often a part of teacher training or leadership development programs. We can learn so much from those who’ve developed the craft of teaching and facilitation.
 
-To learn through the observation process, it can be helpful to enter the experience with curiosity – approaching the experience with a commitment to observe the details of how the facilitator creates community, includes all voices, or teaches course content. When we approach observation as researchers, we seek to learn through the process. "Participant observation is the process enabling researchers to learn about the activities of the people under study in the natural setting through observing and participating in those activities" (Kawulich, 2005, part 2).
+To learn through the observation process, it can be helpful to enter the experience with curiosity – approaching the experience with a commitment to observe the details of how the facilitator creates community, includes all voices, or teaches course content. When we approach observation as researchers, we seek to learn through the process. "Participant observation is the process enabling researchers to learn about the activities of the people under study in the natural setting through observing and participating in those activities" [@kawulichParticipantObservationData2005, part 2].
 
 In this unit, you will complete a minimum of 10 hours of classroom observation in your practicum setting. These hours can include observation of face-to-face teaching/learning experiences, such as lectures, class discussion, student presentations, etc. You can also include observation of online teaching/learning experiences, such as observation of synchronous zoom classes, asynchronous student discussions, lesson design, or faculty assessment of learning.
 
@@ -36,7 +36,7 @@ Here is a list of learning activities that will support you in completing this u
 
 ::: {.learning-activity}
 
-- Read Kawulich (2005) to understand the benefits of participant observation.
+- Read Kawulich [-@kawulichParticipantObservationData2005] to understand the benefits of participant observation.
 - Review the provided resources to gain an understanding of various learning communities.
 - Prepare for your observation by reviewing the sample forms for both face-to-face and online teaching modalities.
 - Complete a minimum of 10 hours of classroom observation, documented through reflective practice and the classroom observation log.
@@ -47,11 +47,11 @@ Here is a list of learning activities that will support you in completing this u
 
 In this unit, you will participate in 10 hours of classroom observation, engaging in reflective practice throughout this process. As you prepare to engage in classroom observation, you will read two articles that allow you to focus on the value of observation as a powerful strategy for learning.
 
-Kawulich (2005) describes the benefits of participant observation – a data collection strategy used by anthropologists and sociologists (as well as educational researchers) to gather data about a community or group. In much the same way, through classroom observation, you will enter into a learning community as an observer, seeking to observe not just the teaching strategies used by the facilitator, but also the experience of the learners, the learning spaces (online or face-to-face) in which learning activities take place, the design of the curriculum, etc.
+Kawulich [-@kawulichParticipantObservationData2005] describes the benefits of participant observation – a data collection strategy used by anthropologists and sociologists (as well as educational researchers) to gather data about a community or group. In much the same way, through classroom observation, you will enter into a learning community as an observer, seeking to observe not just the teaching strategies used by the facilitator, but also the experience of the learners, the learning spaces (online or face-to-face) in which learning activities take place, the design of the curriculum, etc.
 
-> "Participant observation is characterized by such actions as having an open, nonjudgmental attitude, being interested in learning more about others, being aware of the propensity for feeling culture shock and for making mistakes, the majority of which can be overcome, being a careful observer and a good listener, and being open to the unexpected in what is learned (DeWalt & DeWalt, 1998, as cited in Kawulich, Part 2).
+> "Participant observation is characterized by such actions as having an open, nonjudgmental attitude, being interested in learning more about others, being aware of the propensity for feeling culture shock and for making mistakes, the majority of which can be overcome, being a careful observer and a good listener, and being open to the unexpected in what is learned [DeWalt & DeWalt, 1998, as cited in @kawulichParticipantObservationData2005, Part 2].
 
-Using the Gibbs Reflective Cycle, you will describe and analyze your experience. As you begin your reflective practice, consider Larivee’s (2000) argument that "Engaging in systematic refection means making it an integral part of daily practice. Making time for thoughtful consideration of their actions and critical inquiry into the impact of their own behavior keeps teachers alert to the consequences of their actions on students" (p. 296).
+Using the Gibbs Reflective Cycle, you will describe and analyze your experience. As you begin your reflective practice, consider Larivee’s [-@larriveeTransformingTeachingPractice2000] argument that "Engaging in systematic refection means making it an integral part of daily practice. Making time for thoughtful consideration of their actions and critical inquiry into the impact of their own behavior keeps teachers alert to the consequences of their actions on students" (p. 296).
 
 Peer observation of teaching is a common practice in higher education, as we all have so much to learn from each other in terms of teaching approach, technique, style, etc. As you conduct your classroom observation, be sure to keep in mind that you are there in an observational role – not as an evaluator. Your goal is not to critique, but to learn by observing the lesson design and teaching strategies that seem to support student learning (keeping in mind that you may not be involved in observing the assessment of learning).
 
@@ -61,7 +61,7 @@ Peer observation of teaching is a common practice in higher education, as we all
 
 Read the following resource:
 
-- Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.
+- Kawulich, B.B. [-@kawulichParticipantObservationData2005]. [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.
 
 :::
 
@@ -71,14 +71,14 @@ Read the following resource:
 
 Read the following resources:
 
-- [Peer Observation of Teaching Guide.](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"}
+- [Peer Observation of Teaching Guide.](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017]
     - Observation Template begins on p. 20.
     - Online Course Observation Template begins on p. 23.
-- Garrison, D. R., Anderson, T., & Archer, W. (1999). [*Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*](https://doi.org/10.1016/S1096-7516(00){target="_blank"}00016-6). The Internet and Higher Education, 2(2), 87–105.
-- Willits, F. K., & Brennan, M. A. (2016). Changing perceptions of the university as a community of learning: The case of Penn State. *International Journal of Teaching & Learning in Higher Education, 28*(1), 66–74. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
-- Brower, A., Carlson-Dakes, C.G., Barger, S.S. (2007). [A learning community model of graduate student professional teaching excellence](https://wiscape.wisc.edu/docs/wiscapedocuments/wp003.pdf?sfvrsn=8){target="_blank"}. *Wisconsin Center for the Advancement of Postsecondary Education*.
-- Read: Chapter 4 "Knowing in Community" in Palmer, P. (2017). *The courage to teach: Exploring the inner landscape of a teacher’s life.* Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
-- Read: Madland, C. (2017). [TWU Community of Inquiry](file:///Users/jeff/Desktop/assets/u2/Madland-transformational-learning.pdf){target="_blank"}. Creative Commons License.
+- Garrison, D. R., Anderson, T., & Archer, W. [-@garrisonCriticalInquiryTextBased1999a]. [*Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*](https://doi.org/10.1016/S1096-7516(00){target="_blank"}00016-6). The Internet and Higher Education, 2(2), 87–105.
+- Willits, F. K., & Brennan, M. A. [-@WillitsChangingperceptions2016]. Changing perceptions of the university as a community of learning: The case of Penn State. *International Journal of Teaching & Learning in Higher Education, 28*(1), 66–74. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
+- Brower, A., Carlson-Dakes, C.G., Barger, S.S. [-@PDFLearningCommunity]. [A learning community model of graduate student professional teaching excellence](https://wiscape.wisc.edu/docs/wiscapedocuments/wp003.pdf?sfvrsn=8){target="_blank"}. *Wisconsin Center for the Advancement of Postsecondary Education*.
+- Read: Chapter 4 "Knowing in Community" in Palmer, P. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher’s life.* Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
+- Read: Madland, C. [-@madlandTWUCommunityTransformational2017]. [TWU Community of Inquiry](file:///Users/jeff/Desktop/assets/u2/Madland-transformational-learning.pdf){target="_blank"}. Creative Commons License.
 
 :::
 
@@ -86,20 +86,20 @@ Read the following resources:
 
 ::: {.learning-activity}
 
-Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face), you will take notes using this form. After the observation, based on the notes you took on the observation form, you will complete your analysis of this teaching observation using the Gibbs Reflective Cycle (1988).
+Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face), you will take notes using this form. After the observation, based on the notes you took on the observation form, you will complete your analysis of this teaching observation using the Gibbs Reflective Cycle [-@Gibbs1988].
 
 Review these sample observation forms. You may choose one of these, or another one you locate online. (Just be sure it is geared at observing faculty at the university/college level, and that is appropriate to the modality, such as online, face-to-face lecture, etc.)
 
 **Observation of Face-to-Face Teaching**
 
-- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} (Centre for Teaching Support & Innovation, 2017) *\*Observation Template begins on p. 20.*
-- [TESL Canada Federation Certification Sample Classroom Observation Report](https://www.tesl.ca/images/Certification/sample_classroom_observation_form.pdf){target="_blank"} (n.d.)
-- [Columbia Gorge Community College Classroom Observation Form](https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf){target="_blank"} (n.d.)
+- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017] *\*Observation Template begins on p. 20.*
+- [TESL Canada Federation Certification Sample Classroom Observation Report](https://www.tesl.ca/images/Certification/sample_classroom_observation_form.pdf){target="_blank"} [@TESLCanadaSampleclassroom]
+- [Columbia Gorge Community College Classroom Observation Form](https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf){target="_blank"} [@ColumbiaGorgeCC]
 
 **Observation of Online Teaching**
 
-- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} (Centre for Teaching Support & Innovation, 2017) *\*Online Course Observation Template begins on p. 23.*
-- [Faculty Peer Review of Online Teaching](https://dutton.psu.edu/peer-review-online){target="_blank"} (The Dutton Institute, n.d.) *\*Select "Peer Review Guide of Online Teaching at Penn State."*
+- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017] *\*Online Course Observation Template begins on p. 23.*
+- [Faculty Peer Review of Online Teaching](https://dutton.psu.edu/peer-review-online){target="_blank"} [@FacultyPeerReview] *\*Select "Peer Review Guide of Online Teaching at Penn State."*
 
 :::
 
@@ -130,8 +130,8 @@ In this unit, you have engaged in reflective practice as you have observed a min
 :::
 
 ## References {.unnumbered}
-
-Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2.
+<!-- 
+Kawulich, B.B. (2005). [Participant observation as a data collection method.](http://www.qualitative-research.net/index.php/fqs/article/view/466/996){target="_blank"} *Forum Qualitative Social Research, (6)*2. -->
 
 <!-- ## Discussion 3: Reflective Practice - Classroom Observation (Part 1)
 
