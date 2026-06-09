@@ -201,7 +201,7 @@ Each lesson plan will also be designed to incorporate:
 
 In preparation for designing lesson plans, be sure to review these materials:
 
-- Queens University Center for Teaching and Learning. (n.d.) [Learning outcomes; course/curriculum design.](http://www.queensu.ca/ctl/teaching-support/course-and-program-design){target="_blank"}
+- Queens University Center for Teaching and Learning. (n.d.) [Learning outcomes; course/curriculum design.](https://www.queensu.ca/ctl/resources/instructors/course-design){target="_blank"}
 - McTighe & Wiggins [-@mctigheUnderstandingDesignFramework2012]. [Understanding by design framework. ASCD.](https://www.ascd.org/ASCD/pdf/siteASCD/publications/UbD_WhitePaper0312.pdf){target="_blank"}
 - Review materials from previous courses related to lesson planning.
 - Review the [Lesson Plan Template](https://mytwu.sharepoint.com/:w:/r/sites/LearningDesign/Shared%20Documents/MA%20Lead%20-%20Doc/LDRS%20667/2.%20Course%20Working%20Files/Units%20%26%20Assessment/LDRS%20667_U4_Lesson%20Plan%20Template.docx?d=wabb0d05635da4e5c935a952d2cae7db9&csf=1&web=1&e=HPsgfy){target="_blank"}.
@@ -254,7 +254,7 @@ Combined, these three elements can lead to transformational learning – an aspi
 :::
 
 ::: text-source
-*Source:* Created by C. Madland.
+Created by C. Madland.
 
 :::
 
@@ -272,8 +272,8 @@ Review the three learning community models you studied in LDRS 664:
 
 As you recall what you learned in LDRS 664 Creating Authentic Learning Communities and other courses, consider 2-3 concepts or teaching strategies you learned related to creating authentic and inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
 
-- Review: [Liberating structures: Including and unleashing everyone.](http://www.liberatingstructures.com/fs11-innovating-by-including/){target="_blank"} [@lipmanowiczLiberatingStructuresLS]
-- Watch the following video from: [Liberating structures.](http://www.liberatingstructures.com/){target="_blank"} [@lipmanowiczLiberatingStructuresIntroductiona]
+- Review: [Liberating structures: Including and unleashing everyone.](http://www.liberatingstructures.com/fs11-innovating-by-including/){target="_blank"} [@lipmanowiczLiberatingStructuresInnovating2010]
+- Watch the following video from: [Liberating structures.](http://www.liberatingstructures.com/){target="_blank"} [@lipmanowiczLiberatingStructuresIntroduction]
 
 **Questions to Consider**
 
@@ -317,8 +317,8 @@ In preparation for designing this lesson plan, review these materials, as well a
 - LaFever, M. [-@lafeverSwitchingBloomMedicine2016]. [Switching from Bloom to the Medicine Wheel: Creating learning outcomes that support Indigenous ways of knowing in post-secondary education.](https://www.tandfonline.com/doi/abs/10.1080/14675986.2016.1240496){target="_blank"} Intercultural Education.
 - Page, C. [-@pageFoundationsInterculturalTeaching2021]. [Foundations of intercultural teaching.](https://kpu.pressbooks.pub/foundationsofinterculturalteaching/){target="_blank"} Kwantlen Polytechnic University.
 - Kiper, J. [-@kiperKnowingCultures2020]. [Knowing across cultures.](https://www.anthropology-news.org/articles/knowing-across-cultures/teele){target="_blank"} Anthropology News. 
-- D. & Cohn-Vargas, B. (2014).[Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
-- Steele, D. & Cohn-Vargas, B. (2014). [Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
+<!-- - D. & Cohn-Vargas, B. (2014).[Identity safe classrooms are places where students can belong and learn.](https://edpolicy.stanford.edu/library/video/1196){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education. -->
+- Steele, D. & Cohn-Vargas, B. [-@IdentitySafeClassrooms]. [Identity safe classrooms are places where students can belong and learn.](http://www.identitysafeclassrooms.com/){target="_blank"} Stanford Graduate School of Education, Stanford Center for Opportunity Policy in Education.
 
 As you recall your learning in LDRS 662 Culturally Inclusive Teaching and Learning and other courses, consider 2-3 concepts or teaching strategies you have learned related to creating culturally inclusive learning experiences. In the Collaborative White Board, share those concepts/strategies with other learners.
 
@@ -337,7 +337,7 @@ The third lesson plan you are asked to design in this unit will integrate strate
 
 The critical and creative thinking skills you have developed throughout your formal education, professional experience, and (simply put) life, are essential skill – and are important to teach students.
 
-> "Critical thinking is the intellectually disciplined process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and/or evaluating information gathered from, or generated by, observation, experience, reflection, reasoning, or communication, as a guide to belief and action. In its exemplary form, it is based on universal intellectual values that transcend subject matter divisions: clarity, accuracy, precision, consistency, relevance, sound evidence, good reasons, depth, breadth, and fairness" [@DefiningCriticalThinking].
+> "Critical thinking is the intellectually disciplined process of actively and skillfully conceptualizing, applying, analyzing, synthesizing, and/or evaluating information gathered from, or generated by, observation, experience, reflection, reasoning, or communication, as a guide to belief and action. In its exemplary form, it is based on universal intellectual values that transcend subject matter divisions: clarity, accuracy, precision, consistency, relevance, sound evidence, good reasons, depth, breadth, and fairness" [@scrivenDefiningCriticalThinking1987].
 
 A critical thinker will engage in the following behaviors:
 
@@ -365,9 +365,9 @@ The combination of experiential learning and scholarly knowledge can be powerful
 
 In preparation for designing this lesson plan, review these materials, as well as materials from previous courses (such as LDRS 627, Unit 5: Teaching for Critical Thinking) related to creative and critical thinking:
 
-- Paul, R. and Elder, L. [-@Richard&eldertheminiature2006] [The miniature guide to critical thinking: Concepts and tools.](https://www.criticalthinking.org/files/Concepts_Tools.pdf){target="_blank"}
+- Paul, R. and Elder, L. [-@paulMiniatureGuideCritical2006] [The miniature guide to critical thinking: Concepts and tools.](https://www.criticalthinking.org/files/Concepts_Tools.pdf){target="_blank"}
 - Hattie, J., & Timperley, H. [-@hattiePowerFeedback2007]. [The power of feedback](https://research.ebsco.com/c/bljv25/search/details/cxdse2vykj?limiters=FC1%3AN%2CFT1%3AY%2CFT%3AN%2CRV%3AN&q=https%3A%2F%2Fjournals.sagepub.com%2Fdoi%2Fabs%2F10.3102%2F003465430298487){target="_blank"}. Review of Educational Research, 77, 81-112. [doi:10.3102/003465430298487](https://journals-sagepub-com.twu.idm.oclc.org/doi/10.3102/003465430298487){target="_blank"}
-- [Making sense of universal design for learning.](https://www.youtube.com/watch?v=PQSAQdxnQBY){target="_blank"} [Video]. YouTube. [@youralbertagovernmentofalbertaMakingSenseUniversal2018]
+- [Making sense of universal design for learning.](https://www.youtube.com/watch?v=PQSAQdxnQBY){target="_blank"} [Video]. YouTube. [@governmentofalbertaMakingSenseUniversal2018]
 - [Toward inclusive learning spaces: Physiological, cognitive, and cultural inclusion and the learning space rating system](https://er.educause.edu/articles/2020/2/toward-inclusive-learning-spaces){target="_blank"} [@holetonInclusiveLearningSpaces2020].
 - [Transforming practice: Learning equity, learning excellence.](https://caul-cbua.pressbooks.pub/transformingpractice/){target="_blank"} [@socialequityworkinggroupcurriculumcommitteeTransformingPracticeLearning2022].
 

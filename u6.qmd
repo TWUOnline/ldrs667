@@ -22,9 +22,9 @@ In this unit, we will focus on creating a:
 
 In this unit, you will engage in a summative reflective practice of your practicum experience. By the end of this unit, you should be able to:
 
-- analyze your practicum experience using Gibbs’ [-@Gibbs1988] Reflective cycle.
-- discuss how your personal philosophy of your role as teacher/facilitator influenced the learning community.
-- assess your achievement of the learning goals you set at the beginning of your practicum.
+- Analyze your practicum experience using Gibbs’ [-@gibbsLearningDoingGuide1998] Reflective cycle.
+- Discuss how your personal philosophy of your role as teacher/facilitator influenced the learning community.
+- Assess your achievement of the learning goals you set at the beginning of your practicum.
 
 ### Learning Activities {.unnumbered}
 
@@ -36,7 +36,7 @@ In this unit, you will engage in a summative reflective practice of your practic
 
 ### Assessment {.unnumbered}
 
-The assessment for this unit includes your reflective practice practicum portfolio based on Gibbs’ [-@Gibbs1988] reflective cycle. This will be your final assignment for this course.
+The assessment for this unit includes your reflective practice practicum portfolio based on Gibbs’ [-@gibbsLearningDoingGuide1998] reflective cycle. This will be your final assignment for this course.
 
 See the Assessment section in Moodle for more details.
 
@@ -59,6 +59,8 @@ Completing your final assignment, the Reflective Practice Practicum Portfolio, m
 - Engage in reflective practice within a facilitation/teaching role
 
 :::
+
+## References {.unnumbered}
 
 <!-- ## Assignment 5: Reflective Practice Practicum Portfolio
 

@@ -1,8 +1,8 @@
-# Pre-work: Practicum Proposal
+# Pre-work - Practicum Proposal
 
 ## Overview {.unnumbered}
 
-Welcome to LDRS 667 Practicum: Personal and Professional Practice and Reflection. In this unit, **which needs to be completed prior to the start of the course,** you will prepare for your practicum in coaching and facilitation in a professional learning setting.
+Welcome to LDRS 667: Practicum - Personal and Professional Practice and Reflection. In this unit, **which needs to be completed prior to the start of the course,** you will prepare for your practicum in coaching and facilitation in a professional learning setting.
 
 As you prepare to engage in your practicum, you will complete pre-work that includes preparing and submitting a Practicum Proposal for review by your instructor, and reviewing materials from previous courses.
 
@@ -100,15 +100,19 @@ If you’re not sure whether a site will meet the requirements, reach out to you
 
 ### Activity: Describe your Practicum Site and Mentor
 
+This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+
 ::: {.learning-activity}
 
 Create a description of your practicum site. This should include details such as whether you will be observing a specific professor, teacher, or trainer, and the context for your observation and facilitation. For example, will you be observing a professor and then facilitating live discussions in her onsite class?
 
-*Note:* Although you need to identify your site for this assignment, you should consider whether you want to keep the site anonymous for your discussions in the Practicum Course. If so, be sure to indicate in your proposal how you will avoid identifying details in course discussions.
-
 Complete and include the signed [Mentor Agreement](assets/u1/LDRS_667_Mentor_Agreement.pdf){target="_blank"} in your practicum proposal.
 
-*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+:::
+
+::: {.note}
+
+*Note:* Although you need to identify your site for this assignment, you should consider whether you want to keep the site anonymous for your discussions in the Practicum Course. If so, be sure to indicate in your proposal how you will avoid identifying details in course discussions.
 
 :::
 
@@ -128,7 +132,7 @@ To prepare for the practicum, review the relevant textbooks and resources. Begin
 
 If you need a refresher on how to write Learning Outcomes for your practicum, review the prior course materials along with the following resources:
 
-- ["Learning Outcomes"](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"} [@LearningOutcomesa]
+- ["Learning Outcomes"](https://teaching.uwo.ca/curriculum/coursedesign/learning-outcomes.html){target="_blank"} [@centreforteachingandlearningLearningOutcomes]
 
 ::: {#fig-image}
 
@@ -139,7 +143,7 @@ If you need a refresher on how to write Learning Outcomes for your practicum, re
 :::
 
 ::: text-source
-*Source:* Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
 
 :::
 
@@ -149,11 +153,13 @@ You may also wish to review your Reflective Journal from previous courses. As yo
 
 ## Reflecting on Your Learning Goals
 
-This Practicum is an opportunity not to teach or facilitate, but to reflect deeply on your growth as a coach and facilitator. As part of your practicum proposal, you will develop **personal learning outcomes**—statements that capture what you hope to learn through your observation, lesson planning, and facilitation experiences.
+This practicum is an opportunity not to teach or facilitate, but to reflect deeply on your growth as a coach and facilitator. As part of your practicum proposal, you will develop **personal learning outcomes**—statements that capture what you hope to learn through your observation, lesson planning, and facilitation experiences.
 
 Think of this as a chance to connect your practicum work to the concepts and skills you have explored in previous courses: creating authentic learning communities, designing culturally inclusive teaching and learning experiences, coaching for transformational learning, and applying adult learning theory in practical settings.
 
 ### Activity: Create Personal Learning Outcomes
+
+This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
 ::: {.learning-activity}
 
@@ -166,8 +172,6 @@ Referring to the tips below, create three personal learning outcomes that descri
 3. **Think about how you want to grow.** Learning outcomes should describe what you want to *learn*, not just what you plan to do.
 4. **Use one clear verb per outcome.** For example: identify, design, facilitate, apply, analyze, integrate. (Refer to Bloom’s Taxonomy if you’re looking for learning verbs).
 5. **Focus on the outcome, not the process**. In your learning outcomes, focus on what you hope to learn – such as being able to design a lesson plan or facilitate an online discussion board.
-
-*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
 :::
 
@@ -195,6 +199,8 @@ Once you’ve taken some time to reflect on what you want to learn through your 
 
 ### Activity: Create Detailed Plans for Your Practicum
 
+This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
+
 ::: {.learning-activity}
 
 Create the following sections for your practicum proposal:
@@ -205,8 +211,6 @@ Create the following sections for your practicum proposal:
     - Facilitating Online or Face-to-Face Discussions: Include details about where and when you plan to facilitate these discussions.
 - **Learning:** An analysis of how this practicum will contribute to the achievement of practicum learning outcomes. Be specific. Explain how each element of the practicum will contribute to the personal learning outcomes you develop.
 - **Career Planning:** A discussion of how this practicum will build on your current academic, personal, and professional knowledge, and how it will contribute to your career goals. Be specific.
-
-*Note:* This learning activity will guide you in developing your practicum proposal, which you will submit for instructor review before the course begins.
 
 :::
 

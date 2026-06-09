@@ -20,7 +20,7 @@ Upon successful completion of this course, you should be able to:
 
 In this practicum, you have the opportunity to put what you have learned in your graduate courses into practice within a professional context. Experiential learning is a powerful and rich learning opportunity.
 
-> "Teaching and learning can become inherently spontaneous and student-centered when moved from the confines of the classroom into the world at large. From the collaborative learning atmosphere that results from the unique relationships developed outside the classroom, to the deep learning that occurs when students must put into practice "in the real world" what they have theorized about from behind a desk, field experiences are unmatched in their learning potential" [@ClaiborneTeachingoutside, p. 9].
+> "Teaching and learning can become inherently spontaneous and student-centered when moved from the confines of the classroom into the world at large. From the collaborative learning atmosphere that results from the unique relationships developed outside the classroom, to the deep learning that occurs when students must put into practice "in the real world" what they have theorized about from behind a desk, field experiences are unmatched in their learning potential" [@claiborneTeachingOutsideClassroom2018, p. 9].
 
 In addition to applying your learning, you will also establish a practice of reflection, engaging in ongoing self-evaluation and analysis of your coaching/facilitation experience in order to continually refine your professional practice. It is our hope that you will not only enhance your coaching and facilitation skills through practice and reflection, but that you will also establish a practice of reflection that will enhance your professional effectiveness throughout your career.
 
@@ -44,7 +44,7 @@ In this unit, we will focus on the concept and strategies of reflective practice
 This unit is divided into the following topics:
 
 1. Developing a Reflective Practice
-2. Gibbs’ Reflective Cycle [-@Gibbs1988]
+2. Gibbs’ Reflective Cycle [-@gibbsLearningDoingGuide1998]
 
 ### Learning Outcomes {.unnumbered}
 
@@ -92,8 +92,8 @@ Read the following articles and websites on adult learning theory principles. As
 
 Read and review the following resources. As you read, be sure to focus on the adult learning principles you hope to integrate into your facilitation. As you design lessons for this practicum, you will be required to integrate adult learning theory into your lesson plan design.
 
-- Bouchrika, I. [-@AndragogyApproachKnowles2021]. [The andragogy approach: Knowles’ adult learning theory principles in 2026.](https://research.com/education/the-andragogy-approach){target="_blank"} Education.
-- Merriam, S. [-@merriamAndragogySelfDirectedLearning2001]. [Andragogy and self-directed learning: Pillars of adult learning theory](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=2c18984a-7924-30b0-bdbd-805ffc062e0d){target="_blank"}. *New Directions for Adult and Continuing Education*, *2001*(89), 3-13. [https://doi.org/10.1002/ace.3](https://doi-org.twu.idm.oclc.org/10.1002/ace.3){target="_blank"}
+- Bouchrika, I. [-@bouchrikaAndragogyApproachKnowles2026]. [The andragogy approach: Knowles’ adult learning theory principles in 2026.](https://research.com/education/the-andragogy-approach){target="_blank"} Education.
+- Merriam, S. [-@merriamAndragogySelfdirectedLearning2001]. [Andragogy and self-directed learning: Pillars of adult learning theory](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=2c18984a-7924-30b0-bdbd-805ffc062e0d){target="_blank"}. *New Directions for Adult and Continuing Education*, *2001*(89), 3-13. [https://doi.org/10.1002/ace.3](https://doi-org.twu.idm.oclc.org/10.1002/ace.3){target="_blank"}
 
 :::
 
@@ -107,7 +107,7 @@ Larrivee [-@larriveeTransformingTeachingPractice2000] describes a process of cri
 
 As you prepare for your coaching/facilitation experiences in your practicum, you are challenged to consider the value of reflective practice. You will also develop your own practice of self-reflection and critical inquiry. We will explore Gibbs’ Reflective Cycle, which you will use throughout this practicum. We hope you will take this practice into your own coaching and facilitation experiences beyond this course.
 
-Gibbs’ Reflective Cycle [-@Gibbs1988] includes six steps: description, feelings, evaluation, analysis, conclusion, and action plan. As you engage in your professional practice through this practicum, you will be asked to complete these steps for each element of the practicum (i.e. classroom observation, lesson plan design, and facilitation).
+Gibbs’ Reflective Cycle [-@gibbsLearningDoingGuide1998] includes six steps: description, feelings, evaluation, analysis, conclusion, and action plan. As you engage in your professional practice through this practicum, you will be asked to complete these steps for each element of the practicum (i.e. classroom observation, lesson plan design, and facilitation).
 
 ::: {#fig-image}
 
@@ -118,7 +118,7 @@ Gibbs’ Reflective Cycle [-@Gibbs1988] includes six steps: description, feeling
 :::
 
 ::: text-source
-*Source:* Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
+Created by C. P. Navarro, R. Kang, and TWU. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){target="_blank"}
 
 ::: 
 
@@ -140,7 +140,7 @@ In the Learning Activities, you will review resources that provide a deeper look
 Read the following resources:
 
 - Larrivee, B. [-@larriveeTransformingTeachingPractice2000]. [Transforming teaching practice: Becoming the critically reflective teacher](http://ed253jcu.pbworks.com/w/page/f/Larrivee_B_2000CriticallyReflectiveTeacher.pdf){target="_blank"}. *Reflective Practice, 1*(3), 293–307.
-- Machost, H., & Stains, M. [-@machostReflectivePracticesEducation2023]. Reflective practices in education: A primer for practitioners. *CBE Life Sciences Education*, 22. [https://doi.org/10.1187/cbe.22-07-0148.](https://doi.org/10.1187/cbe.22-07-0148.){target="_blank"}
+- Machost, H., & Stains, M. [-@machostReflectivePracticesEducation2023]. Reflective practices in education: A primer for practitioners. *CBE Life Sciences Education*, 22. [https://doi.org/10.1187/cbe.22-07-0148](https://doi.org/10.1187/cbe.22-07-0148){target="_blank"}.
 - Forrest, M. E. S. [-@forrestBecomingCriticallyReflective2008]. [On becoming a critically reflective practitioner](https://research.ebsco.com/c/bljv25/viewer/pdf/eyoqvzgjin){target="_blank"}. *Health Information & Libraries Journal, 25*(3), 229-232.
 - Galli, F. & New, K.J. [-@galliGibbsCycleReview2022]. [Gibbs’ cycle review: Emotions as a part of the cycle](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=228f362e-3473-331b-912a-9a034ef88fc8){target="_blank"}. *e-Motion: Revista de Educación, Motricidad e Investigación*. [https://doi.org/10.33776/remo.vi19.7224](https://doi.org/10.33776/remo.vi19.7224){target="_blank"}.
 - Lefebvre, J., Lefebvre, H., Gauvin-Lepage, J., Gosselin, R., & Lecocq, D. [-@lefebvreReflectionTeachingAction2023]. [Reflection on teaching action and student learning](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=d0a665af-09c7-3a19-b317-29aa3d9b282a){target="_blank"}. *Teaching and Teacher Education, 134*(2023),1-10. [https://doi.org/10.1016/j.tate.2023.104305](https://doi.org/10.1016/j.tate.2023.104305){target="_blank"}.
@@ -148,10 +148,10 @@ Read the following resources:
 
 Select one of the following articles to learn more about a topic you’re interested in:
 
-- If you want to learn more about learning outside a formal classroom, read: Claiborne, L., Morrell, J., Bandy, J., & Bruff, D. [-@ClaiborneTeachingoutside] [Teaching outside the Cclassroom](https://share.google/chd7PjtKHJpnmRB90){target="_blank"}. Vanderbilt University Center for Teaching and Learning.
+- If you want to learn more about learning outside a formal classroom, read: Claiborne, L., Morrell, J., Bandy, J., & Bruff, D. [-@claiborneTeachingOutsideClassroom2018] [Teaching outside the Cclassroom](https://share.google/chd7PjtKHJpnmRB90){target="_blank"}. Vanderbilt University Center for Teaching and Learning.
 - If you’d like to learn more about Gibbs’ Reflective Cycle, including examples, read one of the following:
-    - Mulder, P. [-@MulderGibbsReflectiveCycle2018]. [Gibbs' Reflective Cycle](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"} by Graham Gibbs.
-    - University of Edinburgh [-@ReflectiveCycle]. [Gibbs' Reflective Cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}.
+    - Mulder, P. [-@mulderGibbsReflectiveCycle2018]. [Gibbs' Reflective Cycle](https://www.toolshero.com/management/gibbs-reflective-cycle-graham-gibbs/){target="_blank"} by Graham Gibbs.
+    - University of Edinburgh [-@universityofedinburghGibbsReflectiveCycle]. [Gibbs' Reflective Cycle](https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle){target="_blank"}.
 
 :::
 

@@ -26,9 +26,9 @@ In this unit, we will focus on:
 
 In this unit, you will engage in reflective practice through classroom observation. By the end of this unit, you should be able to:
 
-- analyze lesson plan design, learning activities, and assessment strategies
-- discuss principles of a community of learning
-- analyze application of adult learning theory
+- Analyze lesson plan design, learning activities, and assessment strategies
+- Discuss principles of a community of learning
+- Analyze application of adult learning theory
 
 ### Learning Activities {.unnumbered}
 
@@ -71,14 +71,14 @@ Read the following resource:
 
 Read the following resources:
 
-- [Peer Observation of Teaching Guide.](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017]
+- [Peer Observation of Teaching Guide.](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteachingsupport&innovationPeerObservationTeaching2017]
     - Observation Template begins on p. 20.
     - Online Course Observation Template begins on p. 23.
-- Garrison, D. R., Anderson, T., & Archer, W. [-@garrisonCriticalInquiryTextBased1999a]. [*Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*](https://doi.org/10.1016/S1096-7516(00){target="_blank"}00016-6). The Internet and Higher Education, 2(2), 87–105.
-- Willits, F. K., & Brennan, M. A. [-@WillitsChangingperceptions2016]. Changing perceptions of the university as a community of learning: The case of Penn State. *International Journal of Teaching & Learning in Higher Education, 28*(1), 66–74. Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
-- Brower, A., Carlson-Dakes, C.G., Barger, S.S. [-@PDFLearningCommunity]. [A learning community model of graduate student professional teaching excellence](https://wiscape.wisc.edu/docs/wiscapedocuments/wp003.pdf?sfvrsn=8){target="_blank"}. *Wisconsin Center for the Advancement of Postsecondary Education*.
-- Read: Chapter 4 "Knowing in Community" in Palmer, P. [-@palmerCourageTeachExploring2017]. *The courage to teach: Exploring the inner landscape of a teacher’s life.* Article can be accessed through the [TWU Library](https://www.twu.ca/library/){target="_blank"}.
-- Read: Madland, C. [-@madlandTWUCommunityTransformational2017]. [TWU Community of Inquiry](file:///Users/jeff/Desktop/assets/u2/Madland-transformational-learning.pdf){target="_blank"}. Creative Commons License.
+- Garrison, D. R., Anderson, T., & Archer, W. [-@garrisonCriticalInquiryTextbased1999]. [*Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education*](https://doi.org/10.1016/S1096-7516(00)00016-6){target="_blank"}. The Internet and Higher Education, 2(2), 87–105.
+- Willits, F. K., & Brennan, M. A. [-@willitsChangingPerceptionsUniversity2016]. [Changing perceptions of the university as a community of learning: The case of Penn State.](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=beccb69a-6b5c-3835-bb70-8a6535626aab){target="_blank"}. *International Journal of Teaching & Learning in Higher Education, 28*(1), 66–74.
+- Brower, A., Carlson-Dakes, C.G., Barger, S.S. [-@browerLearningCommunityModel2007]. [A learning community model of graduate student professional teaching excellence](https://minds.wisconsin.edu/bitstream/handle/1793/43615/WP010.pdf?sequence=1&isAllowed=y){target="_blank"}. *Wisconsin Center for the Advancement of Postsecondary Education*.
+- Read: Chapter 4 "Knowing in Community" in Palmer, P. [-@palmerCourageTeachExploring2017]. [*The courage to teach: Exploring the inner landscape of a teacher’s life.*](https://research-ebsco-com.twu.idm.oclc.org/linkprocessor/plink?id=55d9dd12-0a89-3f55-aba0-fa750122128f){target="_blank"}.
+- Read: Madland, C. [-@madlandTWUCommunityTransformational2017]. [TWU Community of Inquiry](assets/u2/Madland-transformational-learning.pdf){target="_blank"}. Creative Commons License.
 
 :::
 
@@ -86,20 +86,20 @@ Read the following resources:
 
 ::: {.learning-activity}
 
-Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face), you will take notes using this form. After the observation, based on the notes you took on the observation form, you will complete your analysis of this teaching observation using the Gibbs Reflective Cycle [-@Gibbs1988].
+Prior to beginning your observation, select a classroom observation form to use during your observation. During your classroom observation (either online or face-to-face), you will take notes using this form. After the observation, based on the notes you took on the observation form, you will complete your analysis of this teaching observation using the Gibbs Reflective Cycle [-@gibbsLearningDoingGuide1998].
 
 Review these sample observation forms. You may choose one of these, or another one you locate online. (Just be sure it is geared at observing faculty at the university/college level, and that is appropriate to the modality, such as online, face-to-face lecture, etc.)
 
 **Observation of Face-to-Face Teaching**
 
-- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017] *\*Observation Template begins on p. 20.*
-- [TESL Canada Federation Certification Sample Classroom Observation Report](https://www.tesl.ca/images/Certification/sample_classroom_observation_form.pdf){target="_blank"} [@TESLCanadaSampleclassroom]
-- [Columbia Gorge Community College Classroom Observation Form](https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf){target="_blank"} [@ColumbiaGorgeCC]
+- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteachingsupport&innovationPeerObservationTeaching2017] *\*Observation Template begins on p. 20.*
+- [TESL Canada Federation Certification Sample Classroom Observation Report](https://www.tesl.ca/images/Certification/sample_classroom_observation_form.pdf){target="_blank"} [@teslcanadafederationSampleClassroomObservation]
+- [Columbia Gorge Community College Classroom Observation Form](https://www.cgcc.edu/sites/default/files/faculty/Classroom-Observation-Form.pdf){target="_blank"} [@columbiagorgecommunitycollegeColumbiaGorgeCommunity]
 
 **Observation of Online Teaching**
 
-- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteaching2017] *\*Online Course Observation Template begins on p. 23.*
-- [Faculty Peer Review of Online Teaching](https://dutton.psu.edu/peer-review-online){target="_blank"} [@FacultyPeerReview] *\*Select "Peer Review Guide of Online Teaching at Penn State."*
+- [Peer Observation of Teaching: Effective Practices](https://teaching.utoronto.ca/wp-content/uploads/Peer-Observation-of-Teaching-Guide.pdf){target="_blank"} [@centreforteachingsupport&innovationPeerObservationTeaching2017] *\*Online Course Observation Template begins on p. 23.*
+- [Faculty Peer Review of Online Teaching](https://dutton.psu.edu/peer-review-online){target="_blank"} [@duttoninstituteFacultyPeerReview] *\*Select "Peer Review Guide of Online Teaching at Penn State."*
 
 :::
 
@@ -123,9 +123,9 @@ In this unit, you have engaged in reflective practice as you have observed a min
 
 ::: {.check}
 
-- analyze lesson plan design, learning activities, and assessment strategies
-- discuss principles of a community of learning
-- analyze application of adult learning theory
+- Analyze lesson plan design, learning activities, and assessment strategies
+- Discuss principles of a community of learning
+- Analyze application of adult learning theory
 
 :::
 
